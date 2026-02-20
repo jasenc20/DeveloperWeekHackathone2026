@@ -1,0 +1,1001 @@
+first_name,last_name,age,gender,color,item_name,favorite_color,location,ispurchased,time_spent_looking,price
+Drucie,Yearn,69,Female,Puce,sktecher_slip_in_go_run_max_cushioning_purple,Aquamarine,Ukraine,false,2,$791.23
+Kienan,McCarlich,65,Male,Puce,air_jordan1_mid_se_edge_pink,Yellow,Russia,false,6,$357.34
+Fowler,Lantiff,65,Male,Indigo,jordan_6_rings_black,Crimson,Argentina,false,4,$730.41
+Leticia,Feavearyear,66,Female,Red,nike_air_max_plus_g_white,Puce,Indonesia,false,5,$832.75
+Blake,Cathie,70,Male,Fuscia,sketcher_max_cushioning_endeavour_black,Green,Denmark,true,3,$727.57
+Vonni,Father,66,Female,Purple,clair_hair_leather_mary_jane_flat_black,Goldenrod,Vietnam,true,1,$851.94
+Basilio,Petrus,68,Male,Crimson,signature_stripe_leather_court_sneaker_white,Puce,Sweden,false,3,$625.12
+Alexandro,Kennifick,63,Male,Pink,nike_air_max_plus_g_white,Crimson,China,false,3,$105.26
+Blaine,Mullett,67,Male,Purple,dr_scholls_time_off_go_black,Khaki,China,false,6,$9.16
+Reyna,Wrangle,70,Female,Blue,nike_air_max_plus_g_white,Violet,Bangladesh,true,2,$799.17
+Belicia,Bailie,60,Female,Crimson,nike_air_force_1_07_se_lny_white,Orange,Portugal,false,1,$581.40
+Tamiko,Macartney,64,Female,Orange,sketchers_arch_fit_laguna_gray,Puce,Iran,true,6,$251.02
+Brant,Van Niekerk,61,Male,Goldenrod,nike_air_force_1_07_se_lny_white,Puce,China,true,6,$936.50
+Brnaba,Myrtle,60,Male,Aquamarine,nike_air_force_1_07_se_lny_white,Yellow,United States,false,6,$753.48
+Glendon,Burnup,60,Male,Puce,sktecher_slip_in_go_run_max_cushioning_purple,Aquamarine,Burkina Faso,true,5,$372.82
+Weber,Titterington,70,Male,Maroon,dr_scholls_time_off_go_black,Fuscia,Poland,false,2,$56.05
+Chandler,Bracher,60,Male,Purple,nike_air_force_1_07_se_lny_white,Crimson,Sweden,true,1,$759.76
+Cristie,Liptrot,66,Female,Orange,sketcher_max_cushioning_endeavour_black,Orange,United States,true,3,$640.49
+Oralle,Filshin,70,Female,Orange,mixed_texture_chunky_leather_sneaker_white,Mauv,Thailand,false,10,$74.93
+Zedekiah,Kleinhausen,64,Male,Purple,nike_air_max_plus_g_white,Crimson,Portugal,true,8,$445.53
+Yehudi,Labat,70,Male,Teal,air_jordan1_mid_se_edge_pink,Blue,Brazil,true,6,$420.16
+Nerissa,Tomas,67,Female,Green,nike_air_force_1_07_se_lny_white,Mauv,Czech Republic,true,2,$226.49
+Callean,McElroy,66,Male,Mauv,nike_revolution_8_pink,Puce,Indonesia,false,4,$759.50
+Heida,Kobpa,69,Female,Blue,skechers_arch_fit_laguna_black,Turquoise,China,false,4,$815.62
+Jillian,Jursch,64,Female,Orange,sktecher_slip_in_go_run_max_cushioning_purple,Turquoise,Nepal,true,4,$449.36
+Clemente,Morales,67,Male,Turquoise,signature_stripe_leather_court_sneaker_white,Turquoise,Indonesia,false,1,$233.53
+Vaclav,Daoust,69,Bigender,Yellow,sketchers_max_cushioning_endeavour_athletic_running_black,Maroon,China,true,1,$949.57
+Anjanette,Bootes,63,Female,Fuscia,sketchers_arch_fit_laguna_gray,Goldenrod,Greece,false,9,$913.88
+Chandler,O'Downe,63,Male,Orange,air_jordan1_mid_se_edge_pink,Purple,Netherlands,false,5,$296.50
+Cherey,Karlowicz,60,Female,Pink,nike_air_force_1_07_se_lny_white,Maroon,Philippines,true,5,$526.49
+Adelaide,Anderl,62,Female,Blue,nike_air_max_plus_g_white,Turquoise,Portugal,true,5,$940.65
+Queenie,Dohmann,60,Female,Teal,dr_scholls_time_off_go_black,Khaki,Russia,true,8,$854.15
+Barbi,Lindblom,63,Bigender,Aquamarine,jordan_spizike_low_pink,Purple,Armenia,true,5,$621.88
+Oates,Bjorkan,64,Male,Turquoise,signature_stripe_leather_court_sneaker_white,Aquamarine,Sweden,false,9,$587.97
+Alair,Cotman,64,Male,Indigo,sketchers_max_cushioning_endeavour_athletic_running_black,Yellow,Philippines,true,4,$111.02
+Georgetta,Knuckles,69,Female,Fuscia,sketchers_max_cushioning_endeavour_athletic_running_black,Mauv,Philippines,false,4,$998.21
+Douglass,Sibthorp,60,Male,Aquamarine,sktecher_slip_in_go_run_max_cushioning_purple,Red,Iran,true,7,$217.51
+Kin,Dewdeny,69,Male,Indigo,sketchers_arch_fit_laguna_gray,Yellow,China,false,10,$234.51
+Chandra,Alliker,68,Female,Crimson,clair_hair_leather_mary_jane_flat_black,Green,Philippines,false,5,$831.13
+Drugi,Barrable,62,Male,Violet,sktecher_slip_in_go_run_max_cushioning_purple,Orange,Argentina,true,6,$961.19
+Alphonso,Hurdwell,68,Male,Goldenrod,sketchers_max_cushioning_endeavour_athletic_running_black,Maroon,Portugal,true,9,$174.35
+Yance,Bispham,70,Male,Purple,nike_air_force_1_07_se_lny_white,Crimson,Greece,false,4,$150.10
+Randi,Greatland,61,Genderqueer,Orange,dr_scholls_time_off_go_black,Indigo,Tanzania,false,9,$632.38
+Trude,Ganniclifft,60,Genderqueer,Aquamarine,sketchers_arch_fit_laguna_gray,Aquamarine,Czech Republic,false,5,$956.76
+Deirdre,Probbings,68,Female,Blue,jordan_6_rings_black,Yellow,Vietnam,true,10,$612.16
+Tabitha,Barthropp,64,Agender,Teal,nike_air_force_1_07_se_lny_white,Goldenrod,Albania,true,10,$703.57
+Averyl,Gres,66,Bigender,Crimson,nike_air_force_1_07_se_lny_white,Teal,Cameroon,false,8,$283.84
+Ailis,Beech,64,Female,Turquoise,jordan_6_rings_black,Indigo,China,true,10,$154.80
+Becca,Govenlock,66,Female,Fuscia,dr_scholls_time_off_go_black,Khaki,Sweden,false,8,$421.50
+Craggie,Greenman,67,Male,Blue,dr_scholls_time_off_go_black,Purple,Ireland,false,8,$430.78
+Eziechiele,Colegate,60,Genderfluid,Khaki,nike_air_max_plus_g_white,Purple,Indonesia,false,9,$506.54
+Kristoforo,Pickup,69,Male,Turquoise,signature_stripe_leather_court_sneaker_white,Red,China,true,3,$921.67
+Sumner,Vane,70,Male,Aquamarine,mixed_texture_chunky_leather_sneaker_white,Blue,Indonesia,true,1,$597.97
+Calida,Treves,66,Female,Goldenrod,clair_hair_leather_mary_jane_flat_black,Aquamarine,Turkmenistan,true,2,$106.70
+Mack,Baillie,69,Male,Goldenrod,nike_air_max_plus_g_white,Blue,Vietnam,true,2,$85.07
+Ibbie,Keller,62,Female,Blue,signature_stripe_leather_court_sneaker_white,Purple,Russia,true,9,$328.83
+Allin,Randerson,63,Male,Purple,nike_air_force_1_07_se_lny_white,Violet,France,true,7,$16.18
+Salmon,Critcher,62,Agender,Goldenrod,air_jordan1_mid_se_edge_pink,Yellow,Colombia,true,8,$487.55
+Gaston,Bugden,63,Male,Crimson,dr_scholls_time_off_go_black,Crimson,Panama,false,4,$184.21
+Chicky,McCardle,70,Male,Blue,sketchers_arch_fit_laguna_gray,Khaki,Indonesia,true,9,$753.59
+Nickolaus,Mathers,62,Male,Yellow,nike_air_force_1_07_se_lny_white,Yellow,Colombia,false,4,$519.24
+Carleton,Ducket,65,Male,Purple,clair_hair_leather_mary_jane_flat_black,Green,Spain,true,6,$779.97
+Karrah,Daintrey,67,Female,Indigo,skechers_arch_fit_laguna_black,Indigo,Vietnam,false,5,$354.61
+Jacquetta,Staniford,68,Female,Crimson,sketcher_max_cushioning_endeavour_black,Crimson,Russia,false,7,$21.42
+Sacha,Bramble,69,Female,Violet,signature_stripe_leather_court_sneaker_white,Puce,Peru,true,6,$421.73
+Catherin,Whellams,60,Genderqueer,Yellow,dr_scholls_time_off_go_black,Red,Russia,true,10,$165.57
+Laurena,Dows,67,Female,Red,nike_revolution_8_pink,Yellow,Japan,false,5,$11.75
+Zia,Bartosinski,66,Female,Purple,signature_stripe_leather_court_sneaker_white,Puce,Sweden,true,8,$64.69
+Berrie,Stallworthy,68,Female,Green,mixed_texture_chunky_leather_sneaker_white,Fuscia,Japan,false,8,$614.66
+Giffer,Ashcroft,61,Male,Mauv,sktecher_slip_in_go_run_max_cushioning_purple,Fuscia,Poland,true,9,$526.15
+Payton,Mayston,66,Male,Teal,jordan_spizike_low_pink,Teal,Portugal,false,10,$730.95
+Susy,Gorthy,63,Female,Violet,air_jordan1_mid_se_edge_pink,Goldenrod,United States,true,2,$527.21
+Ruggiero,Ogelbe,61,Male,Crimson,nike_revolution_8_pink,Pink,Indonesia,true,8,$852.62
+Ravi,Gentile,66,Male,Red,nike_revolution_8_pink,Red,Luxembourg,true,5,$819.78
+Ronnica,Braybrook,66,Female,Violet,mixed_texture_chunky_leather_sneaker_white,Maroon,Russia,false,8,$491.89
+Artair,Mullett,68,Male,Teal,sktecher_slip_in_go_run_max_cushioning_purple,Purple,United States,true,2,$413.59
+Dalt,Dunlop,68,Male,Puce,sketchers_arch_fit_laguna_gray,Blue,Indonesia,true,6,$515.27
+Budd,Strawbridge,69,Male,Puce,nike_air_force_1_07_se_lny_white,Aquamarine,China,false,7,$242.86
+Isaak,Bellhouse,63,Male,Khaki,dr_scholls_time_off_go_black,Crimson,Albania,false,3,$576.31
+Wilow,Whorf,68,Female,Aquamarine,nike_air_force_1_07_se_lny_white,Blue,China,true,10,$593.46
+Petey,Penhalurick,64,Polygender,Pink,nike_air_max_plus_g_white,Goldenrod,China,false,1,$844.55
+Clemmie,Urling,64,Male,Aquamarine,sketchers_max_cushioning_endeavour_athletic_running_black,Teal,Sudan,true,9,$561.32
+Ferrel,Pococke,61,Non-binary,Red,nike_air_max_plus_g_white,Maroon,Liechtenstein,false,2,$150.17
+Darrin,Creigan,67,Male,Khaki,skechers_arch_fit_laguna_black,Goldenrod,China,false,8,$725.05
+Shellysheldon,Dougan,68,Male,Orange,sketchers_max_cushioning_endeavour_athletic_running_black,Maroon,Moldova,true,10,$855.00
+Merrily,Calafato,65,Female,Aquamarine,signature_stripe_leather_court_sneaker_white,Fuscia,Russia,true,4,$138.80
+Lay,Dyer,70,Male,Indigo,nike_revolution_8_pink,Green,Ukraine,false,2,$408.88
+Aryn,Isaac,61,Female,Green,dr_scholls_time_off_go_black,Puce,China,false,6,$22.47
+Guglielmo,Borless,62,Male,Puce,nike_air_max_plus_g_white,Red,Ukraine,true,3,$750.99
+Saunderson,Chang,60,Male,Pink,jordan_6_rings_black,Green,Czech Republic,false,2,$124.22
+Hildagard,Delcastel,61,Female,Aquamarine,nike_air_max_plus_g_white,Goldenrod,China,true,10,$936.64
+Marty,Frearson,63,Male,Turquoise,mixed_texture_chunky_leather_sneaker_white,Khaki,Indonesia,false,2,$934.46
+Prentiss,Nancarrow,70,Male,Turquoise,sketchers_arch_fit_laguna_gray,Fuscia,Poland,true,7,$87.00
+Anestassia,Wickendon,60,Female,Red,clair_hair_leather_mary_jane_flat_black,Goldenrod,Ukraine,false,7,$963.83
+Reece,Chue,64,Agender,Violet,dr_scholls_time_off_go_black,Indigo,Slovenia,false,8,$445.06
+Janka,Tester,60,Female,Turquoise,skechers_arch_fit_laguna_black,Pink,China,true,4,$313.82
+Lezlie,Plenderleith,63,Female,Blue,dr_scholls_time_off_go_black,Goldenrod,Egypt,false,9,$147.72
+Dylan,McFee,61,Male,Red,nike_air_force_1_07_se_lny_white,Aquamarine,China,false,9,$670.69
+Onfroi,Spurden,69,Male,Purple,sktecher_slip_in_go_run_max_cushioning_purple,Purple,Japan,false,8,$615.35
+Ewell,O'Mahoney,66,Genderfluid,Red,dr_scholls_time_off_go_black,Maroon,Philippines,true,10,$923.77
+Ronna,Draycott,69,Female,Blue,nike_air_force_1_07_se_lny_white,Mauv,Philippines,true,2,$212.86
+Rock,Ionesco,68,Male,Pink,clair_hair_leather_mary_jane_flat_black,Orange,South Africa,true,7,$913.45
+Boigie,Raggitt,70,Male,Green,nike_air_max_plus_g_white,Violet,France,false,10,$477.16
+Ange,Pitts,61,Female,Mauv,nike_revolution_8_pink,Aquamarine,Poland,true,8,$376.46
+Lura,Wallman,65,Female,Aquamarine,sketchers_arch_fit_laguna_gray,Yellow,Indonesia,false,2,$340.43
+Clevey,Bithany,62,Bigender,Pink,nike_air_max_plus_g_white,Crimson,Tanzania,false,8,$365.12
+Philbert,Oglethorpe,60,Genderqueer,Pink,nike_air_force_1_07_se_lny_white,Purple,Sweden,true,7,$318.63
+Marci,Jewar,64,Female,Mauv,sktecher_slip_in_go_run_max_cushioning_purple,Khaki,Kenya,true,10,$517.62
+Nancy,Wallas,68,Female,Indigo,skechers_arch_fit_laguna_black,Fuscia,Brazil,false,9,$167.23
+Lethia,Crossthwaite,66,Female,Crimson,sketchers_arch_fit_laguna_gray,Maroon,Thailand,true,3,$456.40
+Chickie,McLernon,65,Female,Green,sketchers_arch_fit_laguna_gray,Teal,Philippines,false,5,$6.88
+Caldwell,Snary,61,Male,Purple,air_jordan1_mid_se_edge_pink,Green,Brazil,false,9,$155.89
+Everett,Hulbert,63,Male,Orange,jordan_spizike_low_pink,Turquoise,China,false,2,$754.86
+Gavin,Greening,62,Male,Fuscia,nike_air_max_plus_g_white,Puce,Indonesia,false,6,$597.32
+Hew,Gott,67,Male,Red,sketcher_max_cushioning_endeavour_black,Mauv,Indonesia,false,2,$499.84
+Addy,Ciciari,66,Female,Orange,air_jordan1_mid_se_edge_pink,Yellow,South Africa,false,10,$368.02
+Bobbe,Akram,60,Female,Teal,sketcher_max_cushioning_endeavour_black,Purple,China,false,7,$796.23
+Zacharias,Balcombe,70,Male,Red,nike_air_force_1_07_se_lny_white,Crimson,North Korea,false,7,$655.85
+Erv,Bourton,69,Male,Pink,sktecher_slip_in_go_run_max_cushioning_purple,Aquamarine,Cuba,false,9,$510.52
+Pip,Josefovic,70,Male,Violet,jordan_6_rings_black,Green,Indonesia,true,5,$554.92
+Orly,Killik,60,Female,Teal,nike_air_max_plus_g_white,Aquamarine,Argentina,false,3,$19.63
+Margette,Hukins,70,Female,Purple,sktecher_slip_in_go_run_max_cushioning_purple,Pink,Botswana,false,3,$569.68
+Harcourt,Bukowski,64,Male,Yellow,dr_scholls_time_off_go_black,Puce,Indonesia,true,8,$294.27
+Harald,Davall,62,Male,Purple,sketchers_arch_fit_laguna_gray,Goldenrod,Comoros,true,9,$780.44
+Ernestus,Bothen,70,Male,Maroon,nike_air_max_plus_g_white,Puce,Spain,false,8,$189.90
+Rebbecca,Blague,60,Female,Khaki,sketchers_max_cushioning_endeavour_athletic_running_black,Indigo,Thailand,false,6,$247.05
+Alysia,Lathwell,67,Female,Puce,nike_revolution_8_pink,Green,United States,true,2,$156.82
+Cristie,Penberthy,70,Female,Mauv,air_jordan1_mid_se_edge_pink,Teal,Brazil,false,7,$273.59
+Cherrita,Langsdon,65,Female,Green,jordan_6_rings_black,Orange,Czech Republic,true,8,$707.52
+Kari,Thomann,63,Female,Pink,nike_air_max_plus_g_white,Blue,Philippines,false,4,$893.97
+Lonny,Housecraft,70,Male,Khaki,clair_hair_leather_mary_jane_flat_black,Maroon,Albania,false,3,$924.89
+Hilliard,Rubinshtein,64,Male,Indigo,sktecher_slip_in_go_run_max_cushioning_purple,Goldenrod,Philippines,true,6,$860.47
+Clovis,Rhydderch,66,Female,Puce,nike_air_force_1_07_se_lny_white,Indigo,Poland,false,4,$679.85
+Fancy,Gunton,66,Female,Green,clair_hair_leather_mary_jane_flat_black,Aquamarine,China,true,4,$540.80
+Emilee,Livsey,62,Female,Khaki,sketcher_max_cushioning_endeavour_black,Yellow,United States,false,6,$942.86
+Gran,Gaiger,69,Male,Khaki,sketchers_max_cushioning_endeavour_athletic_running_black,Blue,United States,false,10,$906.90
+Ingaberg,Alexsandrovich,60,Female,Goldenrod,nike_air_force_1_07_se_lny_white,Indigo,Argentina,false,1,$558.54
+Zarla,Angless,67,Female,Maroon,jordan_spizike_low_pink,Crimson,Venezuela,false,6,$768.63
+Thoma,Myles,60,Male,Violet,sktecher_slip_in_go_run_max_cushioning_purple,Blue,Brazil,false,3,$717.34
+Blinnie,Matschuk,69,Female,Yellow,sketcher_max_cushioning_endeavour_black,Turquoise,China,true,2,$566.14
+Rosabella,Tchaikovsky,67,Female,Puce,sketcher_max_cushioning_endeavour_black,Pink,Portugal,false,4,$922.90
+Trey,Austing,60,Male,Green,sketchers_arch_fit_laguna_gray,Khaki,Russia,false,9,$758.48
+Tandy,Huban,63,Female,Orange,jordan_spizike_low_pink,Indigo,France,true,5,$810.92
+Melba,Fairs,63,Female,Goldenrod,mixed_texture_chunky_leather_sneaker_white,Yellow,Guatemala,false,8,$583.43
+Marybeth,Pleasants,63,Female,Violet,mixed_texture_chunky_leather_sneaker_white,Puce,China,true,10,$180.20
+Wes,McCuffie,66,Male,Maroon,nike_air_max_plus_g_white,Mauv,China,true,3,$36.39
+Whitman,Chalfont,68,Male,Blue,sktecher_slip_in_go_run_max_cushioning_purple,Green,Russia,false,9,$311.60
+Deena,Upfold,64,Female,Purple,jordan_6_rings_black,Violet,Brazil,true,10,$368.73
+Biddy,Hallows,62,Female,Pink,mixed_texture_chunky_leather_sneaker_white,Aquamarine,Thailand,true,6,$298.61
+Floria,Shama,67,Female,Indigo,air_jordan1_mid_se_edge_pink,Blue,Indonesia,false,7,$154.90
+Winston,Giametti,60,Male,Mauv,air_jordan1_mid_se_edge_pink,Blue,Slovenia,false,5,$784.92
+Nonah,Kynd,66,Polygender,Green,nike_air_max_plus_g_white,Green,Poland,true,4,$387.36
+Barth,Sebrens,66,Male,Pink,nike_air_max_plus_g_white,Turquoise,Poland,true,7,$847.50
+Christoffer,Channing,63,Male,Blue,sketcher_max_cushioning_endeavour_black,Turquoise,Indonesia,false,3,$877.50
+Cameron,Redmile,70,Male,Puce,skechers_arch_fit_laguna_black,Blue,Cameroon,true,10,$533.42
+Almira,Pawelczyk,68,Female,Puce,skechers_arch_fit_laguna_black,Fuscia,Honduras,false,10,$249.94
+Bail,Fawbert,62,Bigender,Khaki,signature_stripe_leather_court_sneaker_white,Mauv,Mexico,false,9,$13.24
+Dari,Parradine,60,Female,Pink,mixed_texture_chunky_leather_sneaker_white,Pink,Bulgaria,true,5,$418.17
+Dari,Ferre,61,Female,Yellow,air_jordan1_mid_se_edge_pink,Indigo,China,true,3,$704.87
+Brendis,Sedgwick,63,Male,Crimson,skechers_arch_fit_laguna_black,Crimson,Thailand,true,4,$370.28
+Mick,Blackwell,61,Genderfluid,Green,sketchers_max_cushioning_endeavour_athletic_running_black,Maroon,Vietnam,true,3,$913.63
+Kalinda,Giuron,70,Female,Orange,jordan_6_rings_black,Red,Russia,false,3,$173.00
+Marika,Videler,61,Female,Mauv,nike_air_force_1_07_se_lny_white,Green,Indonesia,true,10,$959.52
+Sly,Mapples,66,Male,Crimson,sketchers_max_cushioning_endeavour_athletic_running_black,Purple,Indonesia,false,1,$339.75
+Reinhard,Lowde,62,Male,Indigo,jordan_spizike_low_pink,Indigo,Argentina,false,6,$693.49
+Corissa,Attwoul,70,Female,Teal,mixed_texture_chunky_leather_sneaker_white,Yellow,Nigeria,false,1,$934.81
+Jocko,Wingfield,65,Genderfluid,Fuscia,jordan_6_rings_black,Puce,Iran,false,1,$736.87
+Briant,Healy,67,Male,Khaki,nike_air_force_1_07_se_lny_white,Turquoise,China,true,3,$182.48
+Micheal,Codner,67,Male,Indigo,nike_air_max_plus_g_white,Fuscia,Brazil,true,7,$445.72
+Elmer,Dugald,70,Genderqueer,Puce,sketcher_max_cushioning_endeavour_black,Puce,Belgium,false,3,$751.31
+Derrick,Westerman,65,Polygender,Orange,signature_stripe_leather_court_sneaker_white,Red,China,true,8,$436.78
+Stephenie,July,66,Female,Goldenrod,jordan_spizike_low_pink,Aquamarine,Russia,true,10,$217.31
+Ebony,McLese,68,Female,Orange,nike_air_max_plus_g_white,Khaki,Russia,true,8,$339.79
+Jammal,Bearblock,65,Male,Maroon,dr_scholls_time_off_go_black,Puce,Indonesia,false,1,$523.27
+Karla,Allard,67,Female,Purple,mixed_texture_chunky_leather_sneaker_white,Goldenrod,Netherlands,false,6,$941.53
+Wayne,Tawton,68,Male,Puce,dr_scholls_time_off_go_black,Fuscia,China,true,4,$725.04
+Rosanne,Huncoot,63,Female,Puce,sktecher_slip_in_go_run_max_cushioning_purple,Teal,Cuba,true,4,$281.56
+Solly,Demschke,62,Male,Teal,skechers_arch_fit_laguna_black,Teal,Czech Republic,true,7,$154.16
+Harold,Stolberger,61,Male,Aquamarine,signature_stripe_leather_court_sneaker_white,Orange,Mexico,false,4,$24.80
+Lilllie,Dun,70,Female,Crimson,dr_scholls_time_off_go_black,Goldenrod,Ukraine,true,2,$295.17
+Netta,Louiset,67,Female,Red,dr_scholls_time_off_go_black,Indigo,China,false,9,$323.99
+Koren,Methuen,65,Female,Violet,jordan_6_rings_black,Khaki,China,false,3,$556.00
+Winn,Rouf,65,Male,Pink,dr_scholls_time_off_go_black,Red,Peru,true,1,$751.91
+Blakeley,Tregear,62,Female,Purple,dr_scholls_time_off_go_black,Red,United States,true,3,$389.73
+Lotte,Arntzen,61,Female,Fuscia,nike_air_max_plus_g_white,Fuscia,Philippines,false,4,$338.33
+Lorilyn,Waddoups,60,Female,Orange,signature_stripe_leather_court_sneaker_white,Crimson,Russia,true,6,$502.42
+Perl,Fairleigh,64,Female,Red,nike_air_max_plus_g_white,Pink,Russia,true,7,$874.81
+Kipper,Denness,66,Male,Violet,sketcher_max_cushioning_endeavour_black,Teal,Philippines,false,9,$799.84
+Ilaire,Garford,60,Male,Indigo,sketcher_max_cushioning_endeavour_black,Blue,Belgium,true,1,$731.38
+Timmie,Apfelmann,63,Male,Puce,skechers_arch_fit_laguna_black,Orange,Pakistan,true,6,$661.26
+Seumas,Cahillane,60,Male,Turquoise,air_jordan1_mid_se_edge_pink,Blue,Botswana,false,9,$935.19
+Corty,Ormrod,70,Male,Green,signature_stripe_leather_court_sneaker_white,Orange,Nigeria,false,3,$653.34
+Teri,Dowsing,68,Bigender,Fuscia,nike_air_force_1_07_se_lny_white,Teal,Indonesia,true,1,$685.10
+Odo,Phebey,70,Male,Fuscia,sktecher_slip_in_go_run_max_cushioning_purple,Yellow,Ukraine,false,5,$590.18
+Fancy,La Padula,61,Female,Turquoise,sketcher_max_cushioning_endeavour_black,Blue,Sweden,false,7,$732.10
+Jehu,Kezourec,61,Male,Khaki,jordan_6_rings_black,Teal,France,false,8,$470.97
+Merwin,Angell,70,Male,Aquamarine,nike_revolution_8_pink,Aquamarine,Portugal,false,3,$535.86
+Davon,Grubey,60,Male,Aquamarine,sketchers_arch_fit_laguna_gray,Orange,Portugal,true,7,$451.18
+Whitby,Eustanch,66,Male,Indigo,signature_stripe_leather_court_sneaker_white,Green,Afghanistan,true,7,$108.31
+Denice,Thring,64,Female,Teal,nike_air_max_plus_g_white,Teal,China,false,3,$487.87
+Terry,Beves,65,Female,Maroon,jordan_spizike_low_pink,Purple,Ukraine,false,3,$964.97
+Tamra,Strotone,70,Female,Mauv,skechers_arch_fit_laguna_black,Aquamarine,Portugal,false,6,$479.48
+Tiler,Gutman,60,Male,Green,jordan_spizike_low_pink,Blue,Brazil,true,1,$186.07
+Terrence,Fairman,64,Male,Maroon,jordan_spizike_low_pink,Goldenrod,China,true,9,$437.31
+Terri-jo,Pallasch,68,Female,Khaki,nike_revolution_8_pink,Indigo,Indonesia,false,8,$948.37
+Tammie,Luetkemeyer,66,Male,Puce,mixed_texture_chunky_leather_sneaker_white,Mauv,Indonesia,true,2,$233.99
+Barnabe,Mechi,63,Male,Goldenrod,skechers_arch_fit_laguna_black,Pink,Indonesia,true,10,$163.84
+Valentina,Murden,69,Female,Pink,nike_air_force_1_07_se_lny_white,Crimson,Russia,false,7,$435.70
+Georgie,Sharrier,69,Male,Pink,nike_revolution_8_pink,Mauv,Indonesia,true,3,$69.88
+Conney,Goakes,68,Male,Pink,nike_air_max_plus_g_white,Mauv,Sweden,false,2,$404.64
+Kassey,Yakobowitch,60,Female,Orange,sktecher_slip_in_go_run_max_cushioning_purple,Green,France,true,10,$988.10
+Keelia,Crump,61,Bigender,Orange,sktecher_slip_in_go_run_max_cushioning_purple,Mauv,China,true,4,$132.11
+Peria,Bothie,64,Female,Mauv,nike_air_max_plus_g_white,Red,Ukraine,true,3,$34.10
+Pearce,Goodburn,69,Male,Green,sketchers_arch_fit_laguna_gray,Violet,China,false,5,$392.93
+Coriss,Corrigan,62,Female,Purple,nike_air_max_plus_g_white,Fuscia,Indonesia,false,4,$985.20
+Christina,Huckstepp,63,Female,Indigo,nike_air_max_plus_g_white,Blue,United States,false,4,$81.28
+Annemarie,Riba,60,Female,Crimson,sktecher_slip_in_go_run_max_cushioning_purple,Puce,China,true,7,$95.59
+Elfreda,Luxon,61,Female,Violet,nike_air_max_plus_g_white,Puce,Indonesia,true,8,$630.69
+El,Evesque,63,Agender,Purple,mixed_texture_chunky_leather_sneaker_white,Khaki,China,true,5,$732.42
+Nealson,Demeza,61,Male,Violet,nike_air_force_1_07_se_lny_white,Teal,China,true,7,$217.31
+Laverne,Bruckner,62,Female,Orange,clair_hair_leather_mary_jane_flat_black,Violet,Canada,false,7,$993.28
+Alyce,Pratty,69,Female,Fuscia,jordan_spizike_low_pink,Crimson,Colombia,true,5,$31.09
+Darb,Janousek,67,Genderqueer,Pink,nike_air_force_1_07_se_lny_white,Khaki,Kenya,false,10,$594.68
+Etti,Pleass,65,Female,Orange,signature_stripe_leather_court_sneaker_white,Turquoise,Brazil,false,8,$726.90
+Zacherie,Stockhill,61,Male,Goldenrod,dr_scholls_time_off_go_black,Puce,Poland,false,10,$272.12
+Amandi,Prestige,68,Female,Crimson,air_jordan1_mid_se_edge_pink,Mauv,Russia,true,2,$666.41
+Ingar,Sayre,66,Male,Khaki,nike_air_force_1_07_se_lny_white,Puce,Indonesia,true,8,$98.13
+Richie,Sliman,61,Bigender,Mauv,clair_hair_leather_mary_jane_flat_black,Green,Philippines,false,7,$924.96
+Sebastien,Kilbane,64,Male,Maroon,nike_air_max_plus_g_white,Pink,Cape Verde,true,6,$963.20
+Alwyn,Hastler,68,Male,Orange,signature_stripe_leather_court_sneaker_white,Khaki,Argentina,false,1,$604.19
+Sydelle,Turbayne,62,Female,Purple,nike_air_force_1_07_se_lny_white,Mauv,South Korea,true,9,$72.84
+Vilhelmina,Beames,70,Female,Green,nike_revolution_8_pink,Green,Russia,false,10,$272.65
+Brunhilde,Toop,63,Female,Mauv,sktecher_slip_in_go_run_max_cushioning_purple,Blue,Philippines,true,4,$209.69
+Shay,Christene,70,Female,Crimson,clair_hair_leather_mary_jane_flat_black,Goldenrod,China,false,6,$447.83
+Jarrid,Durtnall,68,Male,Purple,nike_air_max_plus_g_white,Orange,Brazil,true,7,$91.09
+Joete,Loynton,65,Female,Fuscia,dr_scholls_time_off_go_black,Goldenrod,China,true,7,$881.39
+Hilarius,Janatka,60,Male,Khaki,sktecher_slip_in_go_run_max_cushioning_purple,Red,Indonesia,true,8,$14.51
+Sinclair,Ibbs,62,Male,Fuscia,sktecher_slip_in_go_run_max_cushioning_purple,Pink,Bulgaria,true,5,$464.66
+Shellie,Flaubert,63,Genderqueer,Red,nike_air_force_1_07_se_lny_white,Khaki,Nicaragua,false,6,$383.16
+Sigismondo,Circuit,60,Male,Turquoise,nike_air_max_plus_g_white,Turquoise,Guatemala,true,7,$943.24
+Carlee,Diwell,69,Female,Violet,nike_revolution_8_pink,Purple,Colombia,true,3,$424.92
+Elyn,Wanka,70,Female,Violet,jordan_6_rings_black,Aquamarine,Poland,true,3,$763.44
+Alasteir,Buzek,67,Male,Orange,jordan_6_rings_black,Pink,China,false,8,$403.22
+Raf,Jeune,70,Female,Khaki,dr_scholls_time_off_go_black,Yellow,Russia,true,1,$930.10
+Nanny,Wickersley,60,Female,Orange,jordan_spizike_low_pink,Violet,Albania,false,3,$744.56
+Bobbette,Cathee,62,Female,Goldenrod,nike_air_force_1_07_se_lny_white,Goldenrod,Indonesia,false,3,$860.28
+Jasmina,Radki,69,Female,Green,signature_stripe_leather_court_sneaker_white,Crimson,Nigeria,true,2,$681.88
+Grant,Roake,60,Male,Pink,nike_air_max_plus_g_white,Maroon,Japan,false,6,$894.00
+Addie,Bridie,63,Male,Goldenrod,nike_revolution_8_pink,Red,China,false,9,$838.67
+Maurine,Hodjetts,65,Female,Puce,sketchers_arch_fit_laguna_gray,Puce,Philippines,false,6,$257.41
+Hana,Blanchette,64,Genderqueer,Blue,nike_air_max_plus_g_white,Maroon,Portugal,false,4,$172.49
+Flora,Lougheid,64,Genderqueer,Indigo,clair_hair_leather_mary_jane_flat_black,Puce,Mali,true,3,$950.14
+Andres,Osmar,61,Male,Turquoise,jordan_6_rings_black,Turquoise,Ecuador,false,6,$897.05
+Letty,Joinsey,67,Female,Fuscia,jordan_spizike_low_pink,Red,France,true,6,$267.64
+Nilson,Kingett,70,Male,Pink,nike_air_force_1_07_se_lny_white,Yellow,Norway,true,7,$86.63
+Patrica,Klainer,65,Female,Goldenrod,jordan_spizike_low_pink,Puce,France,true,4,$275.04
+Christina,Paoletti,61,Female,Maroon,clair_hair_leather_mary_jane_flat_black,Yellow,Sweden,false,10,$134.80
+Ofelia,Creggan,69,Female,Teal,signature_stripe_leather_court_sneaker_white,Green,Colombia,true,9,$249.43
+Keir,Massimo,62,Male,Orange,mixed_texture_chunky_leather_sneaker_white,Turquoise,Nigeria,true,2,$399.46
+Doralin,Strick,62,Female,Aquamarine,air_jordan1_mid_se_edge_pink,Red,Philippines,true,3,$874.16
+Jervis,Tomasello,62,Male,Red,sketchers_max_cushioning_endeavour_athletic_running_black,Purple,Poland,false,10,$478.37
+Nelia,Carncross,60,Female,Pink,air_jordan1_mid_se_edge_pink,Violet,France,true,1,$319.93
+Rheba,O'Brollachain,64,Bigender,Yellow,sketchers_max_cushioning_endeavour_athletic_running_black,Orange,Canada,true,10,$131.01
+Drucy,Moncreiff,61,Female,Fuscia,mixed_texture_chunky_leather_sneaker_white,Teal,South Africa,false,8,$847.00
+Rabbi,Fulstow,64,Male,Khaki,nike_air_force_1_07_se_lny_white,Violet,Guatemala,false,9,$572.80
+Clive,Leahy,65,Male,Turquoise,nike_revolution_8_pink,Red,China,true,9,$475.34
+Kingston,Piperley,62,Male,Indigo,dr_scholls_time_off_go_black,Aquamarine,Saudi Arabia,false,9,$803.60
+Wrennie,Railton,66,Female,Mauv,skechers_arch_fit_laguna_black,Teal,Sweden,false,3,$49.26
+Vonnie,Bee,62,Female,Turquoise,clair_hair_leather_mary_jane_flat_black,Mauv,Palau,true,5,$208.11
+Catharine,Trorey,65,Female,Green,nike_air_force_1_07_se_lny_white,Indigo,Palestinian Territory,false,10,$130.27
+Annalise,Evanson,67,Female,Puce,nike_air_max_plus_g_white,Green,Indonesia,false,8,$833.67
+Alasdair,Pech,61,Male,Violet,sktecher_slip_in_go_run_max_cushioning_purple,Crimson,China,true,3,$863.68
+Noby,Arnaudot,69,Male,Red,dr_scholls_time_off_go_black,Indigo,Malaysia,false,10,$359.97
+Magdaia,Jiles,69,Female,Mauv,nike_air_force_1_07_se_lny_white,Pink,Ukraine,false,1,$318.25
+Niko,Belk,60,Male,Indigo,sketchers_max_cushioning_endeavour_athletic_running_black,Maroon,Indonesia,false,4,$964.49
+Diane-marie,Kesby,69,Female,Fuscia,mixed_texture_chunky_leather_sneaker_white,Yellow,Afghanistan,false,3,$90.88
+Janith,Chantree,67,Female,Purple,jordan_6_rings_black,Puce,Philippines,false,7,$724.41
+Kurtis,Franciottoi,64,Male,Turquoise,jordan_6_rings_black,Turquoise,Indonesia,false,4,$645.01
+Scarlett,Hatchell,60,Female,Puce,mixed_texture_chunky_leather_sneaker_white,Blue,Cuba,true,10,$24.13
+Lamar,Brodeur,61,Bigender,Yellow,air_jordan1_mid_se_edge_pink,Fuscia,Mozambique,false,3,$705.12
+Janey,Welfare,66,Female,Violet,dr_scholls_time_off_go_black,Red,Equatorial Guinea,false,8,$251.78
+Sheena,Shoreson,60,Female,Turquoise,dr_scholls_time_off_go_black,Orange,Malaysia,false,10,$37.40
+Derrick,Lyngsted,63,Male,Goldenrod,sktecher_slip_in_go_run_max_cushioning_purple,Teal,Ukraine,false,2,$456.91
+Rolf,Challiner,68,Male,Violet,jordan_spizike_low_pink,Aquamarine,Russia,true,1,$172.16
+Lester,Bestman,68,Male,Goldenrod,mixed_texture_chunky_leather_sneaker_white,Orange,Indonesia,false,4,$918.41
+Brande,Caldeiro,68,Female,Red,mixed_texture_chunky_leather_sneaker_white,Khaki,Nigeria,false,3,$727.37
+Adrianne,Diggin,69,Female,Puce,sktecher_slip_in_go_run_max_cushioning_purple,Green,Indonesia,true,7,$918.98
+Pedro,Worham,64,Male,Yellow,sktecher_slip_in_go_run_max_cushioning_purple,Yellow,Indonesia,true,8,$566.68
+Charmain,Odby,69,Female,Mauv,clair_hair_leather_mary_jane_flat_black,Blue,China,true,8,$731.35
+Reuven,Prantl,65,Male,Maroon,nike_revolution_8_pink,Turquoise,China,false,1,$659.86
+Skye,Catherick,66,Male,Orange,nike_air_max_plus_g_white,Khaki,Finland,false,6,$93.99
+Clio,Markson,64,Female,Fuscia,dr_scholls_time_off_go_black,Mauv,China,true,1,$188.34
+Celestine,Augur,63,Female,Purple,nike_air_force_1_07_se_lny_white,Goldenrod,Brazil,false,2,$39.65
+Basilio,Licari,62,Male,Goldenrod,mixed_texture_chunky_leather_sneaker_white,Crimson,China,true,3,$663.06
+Randal,Linford,64,Non-binary,Orange,nike_revolution_8_pink,Yellow,Indonesia,false,7,$299.91
+Eustacia,McGaugie,63,Female,Violet,mixed_texture_chunky_leather_sneaker_white,Violet,France,true,6,$987.55
+Clement,De Paepe,68,Male,Maroon,jordan_spizike_low_pink,Goldenrod,Poland,true,1,$857.57
+Netti,Juniper,70,Female,Green,dr_scholls_time_off_go_black,Aquamarine,Portugal,true,3,$882.83
+Aurora,Hickisson,62,Female,Khaki,nike_revolution_8_pink,Turquoise,Brazil,true,1,$994.06
+Adoree,Moro,68,Female,Red,jordan_spizike_low_pink,Goldenrod,Palestinian Territory,false,10,$442.47
+Arlana,Drage,68,Female,Green,sktecher_slip_in_go_run_max_cushioning_purple,Violet,Indonesia,false,3,$611.65
+Aviva,Muskett,66,Female,Fuscia,nike_revolution_8_pink,Pink,Palestinian Territory,false,5,$59.36
+Torre,Castanaga,64,Male,Crimson,nike_air_max_plus_g_white,Fuscia,China,true,3,$938.25
+Way,Thalmann,62,Male,Khaki,mixed_texture_chunky_leather_sneaker_white,Indigo,China,true,5,$697.20
+Lovell,Darrington,67,Male,Indigo,air_jordan1_mid_se_edge_pink,Purple,Russia,false,8,$105.93
+Kristin,Pycock,69,Female,Teal,sketchers_max_cushioning_endeavour_athletic_running_black,Orange,Philippines,false,4,$919.28
+Parsifal,Poacher,68,Male,Pink,sktecher_slip_in_go_run_max_cushioning_purple,Khaki,China,false,4,$582.27
+Thom,Sarjant,60,Male,Violet,sketchers_arch_fit_laguna_gray,Blue,South Korea,false,9,$942.31
+Garv,Duffer,70,Male,Goldenrod,nike_air_max_plus_g_white,Crimson,China,true,3,$578.00
+Aili,Janisson,66,Female,Aquamarine,sktecher_slip_in_go_run_max_cushioning_purple,Aquamarine,China,true,10,$608.97
+Olvan,Waldera,61,Male,Puce,skechers_arch_fit_laguna_black,Purple,China,true,1,$115.68
+Lynnell,Verry,66,Female,Indigo,sketcher_max_cushioning_endeavour_black,Blue,Guadeloupe,true,3,$301.12
+Keslie,Castro,64,Non-binary,Mauv,sktecher_slip_in_go_run_max_cushioning_purple,Khaki,China,false,5,$865.60
+Dredi,Creasey,60,Female,Mauv,sketcher_max_cushioning_endeavour_black,Crimson,Croatia,true,2,$726.36
+Danie,Loggie,67,Male,Teal,nike_air_force_1_07_se_lny_white,Red,Bosnia and Herzegovina,true,8,$90.87
+Humbert,Jellard,69,Male,Aquamarine,sketchers_arch_fit_laguna_gray,Green,Malaysia,true,1,$382.03
+Merwin,Chipp,65,Male,Yellow,nike_air_force_1_07_se_lny_white,Maroon,Iran,false,3,$52.18
+Bridie,Starking,66,Female,Mauv,sktecher_slip_in_go_run_max_cushioning_purple,Teal,Cuba,true,4,$718.01
+Tanitansy,Stilliard,62,Female,Purple,skechers_arch_fit_laguna_black,Orange,Philippines,true,9,$978.62
+Ettore,Whitcomb,70,Male,Aquamarine,mixed_texture_chunky_leather_sneaker_white,Red,Canada,true,2,$181.28
+Ernesta,Mullen,65,Female,Turquoise,clair_hair_leather_mary_jane_flat_black,Purple,Sweden,false,5,$445.35
+Sullivan,Croxon,66,Male,Green,nike_air_max_plus_g_white,Khaki,Poland,false,7,$979.46
+Bowie,Cantero,64,Agender,Crimson,skechers_arch_fit_laguna_black,Teal,France,true,9,$89.15
+Derwin,Russ,63,Male,Purple,nike_air_force_1_07_se_lny_white,Khaki,China,true,4,$668.99
+Minor,Torfin,60,Polygender,Blue,sktecher_slip_in_go_run_max_cushioning_purple,Yellow,Philippines,true,4,$928.17
+Bradly,Clitsome,61,Male,Red,nike_air_force_1_07_se_lny_white,Indigo,Poland,true,7,$81.28
+Trstram,Balding,62,Male,Blue,nike_air_force_1_07_se_lny_white,Mauv,Russia,true,9,$853.73
+Isadore,Nutbean,63,Male,Mauv,sketchers_max_cushioning_endeavour_athletic_running_black,Green,Finland,true,1,$635.47
+Selma,Rolinson,69,Polygender,Green,nike_air_force_1_07_se_lny_white,Khaki,Eritrea,true,2,$673.14
+Stacey,Fransinelli,66,Female,Red,dr_scholls_time_off_go_black,Turquoise,Netherlands,true,6,$821.52
+Diandra,Rapi,70,Female,Indigo,nike_revolution_8_pink,Green,Honduras,true,6,$245.14
+Clifford,Klaassens,66,Male,Green,air_jordan1_mid_se_edge_pink,Blue,Brazil,false,6,$804.87
+Shermy,Brabant,68,Male,Pink,nike_revolution_8_pink,Aquamarine,Indonesia,false,7,$189.54
+Ainsley,Ainslee,65,Female,Green,mixed_texture_chunky_leather_sneaker_white,Mauv,Indonesia,true,6,$30.46
+Wanids,Denizet,69,Female,Crimson,nike_air_max_plus_g_white,Khaki,Argentina,true,3,$229.03
+Yovonnda,Casari,65,Female,Aquamarine,sktecher_slip_in_go_run_max_cushioning_purple,Goldenrod,Poland,false,5,$238.08
+Gonzales,Bruggen,68,Male,Turquoise,sketcher_max_cushioning_endeavour_black,Teal,Philippines,false,5,$125.11
+Dewey,Dimmack,68,Male,Crimson,jordan_spizike_low_pink,Goldenrod,Greece,true,8,$825.06
+Tabbatha,Marc,70,Female,Blue,skechers_arch_fit_laguna_black,Pink,Indonesia,true,4,$501.71
+Ninette,Infante,69,Female,Violet,skechers_arch_fit_laguna_black,Orange,China,false,2,$231.34
+Keen,Hamblington,64,Male,Red,sketchers_max_cushioning_endeavour_athletic_running_black,Red,Ukraine,false,3,$685.39
+Alvan,Midlane,69,Male,Blue,clair_hair_leather_mary_jane_flat_black,Maroon,Brazil,false,9,$521.78
+Alfy,Gerriets,61,Male,Pink,nike_air_max_plus_g_white,Fuscia,Brazil,true,3,$742.21
+Marguerite,Dix,70,Female,Yellow,air_jordan1_mid_se_edge_pink,Goldenrod,United States,true,9,$38.02
+Juline,Ocheltree,63,Female,Goldenrod,nike_air_max_plus_g_white,Turquoise,Russia,false,9,$52.08
+Malinda,Howarth,70,Female,Yellow,sketchers_max_cushioning_endeavour_athletic_running_black,Aquamarine,Mexico,false,8,$443.71
+Raleigh,Ship,61,Male,Purple,nike_air_max_plus_g_white,Teal,France,true,8,$120.79
+Theressa,Mathelon,70,Female,Mauv,clair_hair_leather_mary_jane_flat_black,Purple,New Zealand,false,4,$521.30
+Tracie,Rawdall,69,Female,Orange,sketcher_max_cushioning_endeavour_black,Yellow,Poland,false,10,$887.23
+Mame,Glaum,67,Female,Puce,nike_air_force_1_07_se_lny_white,Aquamarine,Belarus,true,4,$198.93
+Doe,Coplestone,68,Female,Turquoise,sketcher_max_cushioning_endeavour_black,Maroon,Dominican Republic,true,5,$536.17
+Ruby,Dowey,65,Genderfluid,Green,dr_scholls_time_off_go_black,Pink,Russia,false,9,$769.65
+Nancie,Melburg,63,Female,Crimson,dr_scholls_time_off_go_black,Green,Macedonia,true,2,$104.78
+Devi,Tregoning,64,Female,Green,nike_air_force_1_07_se_lny_white,Turquoise,China,true,6,$802.23
+Fancie,Broschek,69,Female,Blue,nike_revolution_8_pink,Turquoise,Indonesia,true,9,$769.75
+Florida,Ranyard,68,Female,Fuscia,nike_air_max_plus_g_white,Blue,Indonesia,false,8,$679.77
+Carlene,Claris,68,Female,Purple,sktecher_slip_in_go_run_max_cushioning_purple,Puce,China,true,10,$402.48
+Carson,Clemitt,62,Male,Purple,sketchers_arch_fit_laguna_gray,Purple,Indonesia,true,6,$614.52
+Merwin,Adne,67,Male,Green,sketchers_max_cushioning_endeavour_athletic_running_black,Goldenrod,Bulgaria,true,3,$693.18
+Daryn,Ditchfield,63,Female,Goldenrod,nike_air_max_plus_g_white,Violet,China,false,4,$373.07
+Felicio,Shallcroff,61,Male,Blue,nike_air_force_1_07_se_lny_white,Green,Vietnam,true,2,$685.82
+Therese,O' Cuolahan,69,Female,Aquamarine,air_jordan1_mid_se_edge_pink,Indigo,Brazil,false,8,$962.30
+David,Drei,69,Polygender,Orange,sketchers_max_cushioning_endeavour_athletic_running_black,Fuscia,China,true,9,$523.02
+Morgen,Riddick,70,Female,Blue,signature_stripe_leather_court_sneaker_white,Orange,China,true,1,$670.73
+Wayne,Feechum,66,Male,Purple,jordan_spizike_low_pink,Violet,Indonesia,false,7,$75.58
+Adella,Rooms,65,Female,Orange,air_jordan1_mid_se_edge_pink,Goldenrod,Ecuador,false,5,$845.56
+Dallis,Berney,68,Male,Fuscia,sketchers_arch_fit_laguna_gray,Mauv,Peru,false,4,$305.67
+Jeannie,Keyson,63,Female,Purple,signature_stripe_leather_court_sneaker_white,Red,Japan,true,4,$712.17
+Jeramie,Benedettini,66,Male,Indigo,sketchers_max_cushioning_endeavour_athletic_running_black,Mauv,Indonesia,false,6,$769.72
+Jenifer,Euplate,61,Female,Purple,air_jordan1_mid_se_edge_pink,Aquamarine,Philippines,true,5,$554.03
+Zelig,Tattam,62,Male,Red,sketchers_max_cushioning_endeavour_athletic_running_black,Crimson,Sweden,false,8,$50.95
+Trent,Dooland,64,Male,Purple,jordan_spizike_low_pink,Purple,Mongolia,true,2,$65.20
+Jolee,Buddleigh,64,Female,Crimson,nike_air_max_plus_g_white,Yellow,Sierra Leone,false,5,$666.36
+Trip,Nuss,62,Male,Blue,nike_air_force_1_07_se_lny_white,Blue,France,false,6,$602.66
+Myra,Crawforth,61,Female,Red,signature_stripe_leather_court_sneaker_white,Aquamarine,Portugal,false,4,$740.80
+Tito,Marzelli,69,Male,Orange,nike_air_force_1_07_se_lny_white,Goldenrod,Indonesia,false,5,$578.94
+Gustave,Ball,65,Male,Puce,sketchers_max_cushioning_endeavour_athletic_running_black,Indigo,Zambia,true,8,$498.67
+Gil,Beretta,70,Male,Puce,dr_scholls_time_off_go_black,Crimson,Portugal,false,6,$50.98
+Weston,Letten,62,Male,Yellow,nike_air_force_1_07_se_lny_white,Violet,Philippines,true,3,$890.42
+Teresina,Rehme,64,Agender,Indigo,signature_stripe_leather_court_sneaker_white,Indigo,Mexico,false,7,$174.51
+Lorrie,Poag,70,Male,Blue,jordan_spizike_low_pink,Pink,Colombia,true,7,$885.43
+Jeromy,Joss,64,Male,Khaki,nike_air_max_plus_g_white,Purple,Colombia,false,9,$183.51
+Melinda,Ciani,66,Female,Purple,air_jordan1_mid_se_edge_pink,Blue,Poland,true,4,$395.68
+Tamarah,Belhomme,65,Female,Fuscia,nike_air_force_1_07_se_lny_white,Violet,China,false,4,$78.47
+Neville,Downing,67,Male,Yellow,sketcher_max_cushioning_endeavour_black,Turquoise,China,true,6,$565.31
+Diannne,Elph,68,Female,Green,sketchers_max_cushioning_endeavour_athletic_running_black,Indigo,China,false,8,$351.43
+Irma,Dempsey,61,Female,Teal,jordan_spizike_low_pink,Violet,Latvia,true,2,$312.44
+Meredithe,Godon,63,Agender,Violet,jordan_6_rings_black,Turquoise,Palestinian Territory,false,4,$941.83
+Velvet,Jessel,66,Female,Crimson,nike_revolution_8_pink,Aquamarine,China,true,6,$374.56
+Nico,Albro,64,Male,Maroon,sketchers_arch_fit_laguna_gray,Indigo,Philippines,true,10,$943.74
+Claire,Ferie,60,Polygender,Maroon,nike_air_max_plus_g_white,Aquamarine,Barbados,false,10,$787.05
+Gilbertina,Barcroft,63,Female,Mauv,skechers_arch_fit_laguna_black,Puce,Japan,false,8,$459.75
+Mitchel,Gauge,68,Male,Maroon,sketchers_arch_fit_laguna_gray,Green,Indonesia,false,7,$756.23
+Terrell,MacDirmid,65,Male,Maroon,nike_air_max_plus_g_white,Indigo,Brazil,true,8,$739.08
+Mario,Scarre,68,Male,Purple,clair_hair_leather_mary_jane_flat_black,Pink,United States,true,8,$23.22
+Artie,Rosenhaupt,60,Male,Turquoise,jordan_6_rings_black,Red,China,true,10,$642.43
+Nixie,Emanueli,63,Non-binary,Violet,nike_air_force_1_07_se_lny_white,Teal,Indonesia,false,2,$271.23
+Kyla,Dovermann,67,Female,Green,signature_stripe_leather_court_sneaker_white,Green,Brazil,false,8,$981.54
+Lorri,Breheny,60,Female,Red,nike_air_max_plus_g_white,Goldenrod,China,true,10,$921.71
+Rena,Lilywhite,61,Female,Khaki,sketcher_max_cushioning_endeavour_black,Fuscia,United States,false,8,$224.49
+Dane,Oleshunin,67,Male,Purple,nike_air_max_plus_g_white,Fuscia,China,false,8,$108.36
+Rickey,Steabler,60,Male,Green,nike_revolution_8_pink,Aquamarine,Portugal,true,8,$127.96
+Finley,Canete,70,Male,Khaki,skechers_arch_fit_laguna_black,Fuscia,South Africa,true,5,$999.13
+Yasmeen,Beadell,64,Female,Teal,mixed_texture_chunky_leather_sneaker_white,Maroon,Colombia,true,10,$300.13
+Arabele,Rubenovic,63,Female,Indigo,sketchers_arch_fit_laguna_gray,Red,Vietnam,true,5,$627.03
+Kandy,Ludlam,69,Female,Aquamarine,jordan_6_rings_black,Puce,Thailand,true,7,$570.36
+Halie,Cabrales,62,Female,Green,air_jordan1_mid_se_edge_pink,Puce,Japan,false,1,$443.58
+Lilyan,Liebrecht,66,Agender,Purple,signature_stripe_leather_court_sneaker_white,Teal,Philippines,false,10,$386.67
+Alica,Rayman,61,Female,Purple,air_jordan1_mid_se_edge_pink,Aquamarine,Micronesia,true,2,$962.24
+Cecil,McAllister,70,Female,Pink,mixed_texture_chunky_leather_sneaker_white,Teal,Brazil,false,3,$281.85
+Chloe,Giacoppo,67,Female,Pink,nike_revolution_8_pink,Indigo,Sweden,false,1,$886.09
+Craggy,Tomney,68,Male,Mauv,sketcher_max_cushioning_endeavour_black,Yellow,Indonesia,false,8,$660.83
+Genvieve,O'Daly,66,Female,Yellow,skechers_arch_fit_laguna_black,Fuscia,Cuba,true,8,$57.28
+Ariadne,Smylie,60,Female,Aquamarine,jordan_6_rings_black,Puce,United States,true,4,$514.16
+Pollyanna,Threadgill,63,Polygender,Teal,sketcher_max_cushioning_endeavour_black,Crimson,Brazil,true,6,$879.49
+Lee,Stubbeley,63,Female,Purple,clair_hair_leather_mary_jane_flat_black,Turquoise,Burkina Faso,true,5,$259.71
+Verna,Girardengo,61,Bigender,Orange,sketchers_max_cushioning_endeavour_athletic_running_black,Green,Peru,false,3,$929.15
+Angelita,Well,68,Female,Teal,air_jordan1_mid_se_edge_pink,Green,Russia,true,10,$332.04
+Cristabel,Fairleigh,64,Female,Fuscia,dr_scholls_time_off_go_black,Goldenrod,China,false,7,$761.55
+Alecia,Davenport,69,Female,Violet,nike_revolution_8_pink,Crimson,Dominican Republic,false,10,$43.30
+Alysia,Scolli,62,Female,Crimson,sketcher_max_cushioning_endeavour_black,Red,Argentina,false,3,$278.05
+Reinald,Shawl,64,Male,Crimson,skechers_arch_fit_laguna_black,Puce,Iran,false,8,$725.73
+Nappie,Gillbee,62,Genderqueer,Goldenrod,nike_air_max_plus_g_white,Green,Ukraine,false,5,$625.41
+Brooke,Ormrod,60,Female,Aquamarine,sketchers_max_cushioning_endeavour_athletic_running_black,Goldenrod,Canada,false,5,$835.96
+Caty,Odams,64,Female,Crimson,clair_hair_leather_mary_jane_flat_black,Blue,Japan,false,5,$420.02
+Jess,Antognelli,68,Female,Green,nike_air_max_plus_g_white,Puce,Colombia,false,10,$739.28
+Pierre,Stockau,70,Male,Indigo,skechers_arch_fit_laguna_black,Mauv,Indonesia,false,6,$691.70
+Pascale,Rosten,63,Male,Red,sketcher_max_cushioning_endeavour_black,Khaki,Portugal,true,5,$83.19
+Vanya,Humphries,62,Female,Pink,clair_hair_leather_mary_jane_flat_black,Blue,Portugal,false,5,$580.44
+Dean,Lamey,61,Male,Goldenrod,nike_air_max_plus_g_white,Violet,China,true,8,$748.37
+Rozelle,Armfirld,64,Genderfluid,Maroon,air_jordan1_mid_se_edge_pink,Red,China,true,10,$942.15
+Teddie,Derl,69,Male,Yellow,signature_stripe_leather_court_sneaker_white,Maroon,Nigeria,false,5,$600.33
+Micheil,McDonnell,70,Male,Goldenrod,jordan_6_rings_black,Maroon,China,false,5,$528.84
+Dieter,Stevani,60,Male,Indigo,signature_stripe_leather_court_sneaker_white,Crimson,Indonesia,false,5,$319.72
+Melisenda,Rearie,66,Bigender,Fuscia,jordan_spizike_low_pink,Blue,China,false,9,$720.03
+Brandais,Dampier,60,Female,Khaki,nike_air_force_1_07_se_lny_white,Violet,China,false,2,$166.46
+Kariotta,Fenners,68,Non-binary,Indigo,nike_air_max_plus_g_white,Yellow,China,true,7,$326.86
+Alvis,Abrahamsohn,63,Male,Puce,dr_scholls_time_off_go_black,Goldenrod,Canada,true,10,$542.77
+Tybalt,Sabathier,63,Male,Blue,dr_scholls_time_off_go_black,Fuscia,Uganda,false,2,$365.39
+Sigismund,Robbings,66,Male,Violet,sketcher_max_cushioning_endeavour_black,Yellow,Philippines,false,7,$137.17
+Keefer,Bishopp,62,Male,Green,jordan_6_rings_black,Mauv,Vietnam,false,1,$433.42
+Cyndie,Gowry,69,Non-binary,Fuscia,air_jordan1_mid_se_edge_pink,Mauv,China,false,10,$519.62
+Saraann,Cattle,63,Female,Crimson,nike_air_max_plus_g_white,Crimson,Brazil,true,9,$357.82
+Basia,Rennles,61,Female,Khaki,sketchers_arch_fit_laguna_gray,Puce,Philippines,false,5,$202.08
+Mel,Tonge,63,Female,Puce,sketchers_arch_fit_laguna_gray,Puce,Czech Republic,true,8,$111.78
+Cori,McAneny,60,Male,Turquoise,nike_revolution_8_pink,Khaki,China,true,4,$942.69
+Evan,Cluff,63,Male,Mauv,mixed_texture_chunky_leather_sneaker_white,Purple,Czech Republic,true,3,$632.45
+Jeniece,McCafferky,66,Female,Teal,nike_air_max_plus_g_white,Purple,China,false,6,$972.51
+Georg,Gohier,61,Male,Crimson,air_jordan1_mid_se_edge_pink,Aquamarine,New Zealand,false,3,$616.11
+Kleon,Ingall,69,Male,Teal,nike_revolution_8_pink,Yellow,Indonesia,true,5,$72.35
+Shanie,Maylin,70,Female,Blue,sketchers_arch_fit_laguna_gray,Mauv,Portugal,true,8,$976.19
+Melisande,Smart,64,Female,Goldenrod,nike_air_max_plus_g_white,Turquoise,United States,false,5,$361.51
+Cornell,Ipsley,65,Male,Puce,clair_hair_leather_mary_jane_flat_black,Aquamarine,Indonesia,true,5,$699.60
+Zacharie,Carek,68,Male,Mauv,jordan_6_rings_black,Orange,Mexico,false,7,$684.17
+Elaina,Yarr,66,Female,Goldenrod,nike_air_max_plus_g_white,Khaki,Iran,false,3,$268.75
+Ilaire,Suggate,62,Male,Yellow,mixed_texture_chunky_leather_sneaker_white,Blue,Philippines,false,7,$218.26
+Devora,Causley,60,Female,Red,nike_revolution_8_pink,Purple,Indonesia,true,1,$544.78
+Dermot,Annett,60,Male,Teal,sketcher_max_cushioning_endeavour_black,Mauv,Hungary,false,7,$269.90
+Abbi,Plewright,61,Female,Crimson,skechers_arch_fit_laguna_black,Orange,China,false,2,$737.64
+Sal,Vankin,63,Male,Crimson,nike_revolution_8_pink,Crimson,China,true,6,$699.20
+Nathanil,Dakhno,63,Male,Indigo,skechers_arch_fit_laguna_black,Red,Philippines,true,1,$261.45
+Florie,Benninck,61,Female,Purple,nike_air_force_1_07_se_lny_white,Teal,Philippines,true,2,$287.08
+Page,Dolley,66,Non-binary,Green,jordan_spizike_low_pink,Purple,Thailand,true,6,$857.82
+Marybeth,Gabits,69,Agender,Violet,jordan_spizike_low_pink,Pink,China,true,10,$572.37
+Adel,Gorgen,64,Non-binary,Red,nike_air_max_plus_g_white,Fuscia,Norway,true,3,$513.25
+Orland,Doring,68,Male,Violet,sketchers_arch_fit_laguna_gray,Goldenrod,Indonesia,true,3,$681.59
+Ignatius,Lyst,64,Polygender,Goldenrod,nike_air_force_1_07_se_lny_white,Puce,United States,true,7,$755.76
+Auberon,Life,61,Male,Aquamarine,dr_scholls_time_off_go_black,Crimson,Poland,false,6,$603.21
+Chere,Santori,67,Non-binary,Violet,nike_air_max_plus_g_white,Green,South Korea,false,4,$115.70
+Barr,Pretsel,64,Male,Indigo,sketchers_arch_fit_laguna_gray,Turquoise,Czech Republic,true,1,$100.32
+Sebastien,Kittredge,66,Male,Maroon,sketcher_max_cushioning_endeavour_black,Purple,Venezuela,false,2,$321.08
+Brocky,Wasmuth,69,Male,Goldenrod,jordan_6_rings_black,Puce,Philippines,true,6,$925.24
+Maren,Pandie,61,Female,Maroon,signature_stripe_leather_court_sneaker_white,Crimson,China,true,10,$116.16
+Guthrie,Copozio,68,Male,Teal,sketchers_max_cushioning_endeavour_athletic_running_black,Yellow,Macedonia,true,9,$219.73
+Chelsey,Winfrey,67,Female,Indigo,nike_air_force_1_07_se_lny_white,Blue,Thailand,false,4,$658.67
+Mohammed,Toffano,64,Male,Mauv,nike_air_force_1_07_se_lny_white,Orange,Philippines,false,5,$442.50
+Jeremie,Gratton,60,Male,Violet,air_jordan1_mid_se_edge_pink,Yellow,Armenia,true,5,$100.89
+Nerissa,Domelow,65,Female,Pink,nike_air_force_1_07_se_lny_white,Teal,Portugal,false,7,$320.14
+Ulrikaumeko,Headings,63,Female,Yellow,sktecher_slip_in_go_run_max_cushioning_purple,Violet,Colombia,false,4,$80.07
+Jess,Rosenbaum,69,Male,Mauv,sketchers_arch_fit_laguna_gray,Aquamarine,Portugal,true,3,$669.02
+Sigfrid,Enrigo,68,Male,Mauv,nike_air_max_plus_g_white,Red,Malaysia,true,3,$221.08
+Agustin,Meconi,63,Male,Violet,sketcher_max_cushioning_endeavour_black,Green,Portugal,true,4,$113.44
+Kaspar,Lawry,70,Male,Red,nike_air_force_1_07_se_lny_white,Crimson,Brazil,true,5,$819.13
+Megen,MacInherney,66,Female,Red,nike_air_force_1_07_se_lny_white,Aquamarine,Mexico,false,9,$48.90
+Kent,Lombardo,69,Genderqueer,Pink,signature_stripe_leather_court_sneaker_white,Green,Indonesia,false,8,$795.65
+Sylas,Wille,68,Male,Indigo,nike_air_force_1_07_se_lny_white,Purple,United States,false,7,$946.76
+Jeanelle,Grayshon,69,Female,Violet,air_jordan1_mid_se_edge_pink,Goldenrod,China,true,5,$862.73
+Brandy,Summerson,63,Male,Yellow,nike_air_force_1_07_se_lny_white,Mauv,Peru,false,7,$38.89
+Ailbert,Thomel,65,Male,Green,jordan_6_rings_black,Orange,China,true,4,$808.38
+Leontyne,Papaccio,62,Female,Mauv,clair_hair_leather_mary_jane_flat_black,Blue,Brazil,false,2,$263.73
+Kassey,Castella,67,Female,Crimson,air_jordan1_mid_se_edge_pink,Orange,Macedonia,true,10,$234.78
+Torin,Dyball,68,Male,Orange,jordan_6_rings_black,Aquamarine,Greece,true,1,$455.42
+Yulma,Cromleholme,64,Male,Turquoise,signature_stripe_leather_court_sneaker_white,Purple,Jamaica,false,4,$694.29
+Aurore,Vern,70,Female,Turquoise,nike_air_force_1_07_se_lny_white,Green,Indonesia,false,8,$738.23
+Roosevelt,Jochens,70,Non-binary,Turquoise,signature_stripe_leather_court_sneaker_white,Mauv,China,false,1,$835.72
+Karlotte,Housegoe,67,Female,Pink,dr_scholls_time_off_go_black,Puce,Thailand,true,2,$778.93
+Bernhard,Causton,70,Male,Maroon,sketchers_arch_fit_laguna_gray,Maroon,China,false,2,$577.30
+Beverly,Hames,63,Female,Indigo,sktecher_slip_in_go_run_max_cushioning_purple,Blue,Russia,false,6,$925.92
+Dreddy,McPhilip,61,Female,Yellow,sketchers_arch_fit_laguna_gray,Green,Czech Republic,true,2,$926.50
+Gabriellia,Girod,60,Female,Red,sketchers_max_cushioning_endeavour_athletic_running_black,Turquoise,Belgium,false,10,$671.29
+Frederigo,Stower,61,Male,Goldenrod,nike_air_force_1_07_se_lny_white,Puce,Russia,true,6,$951.82
+Gerick,Roderigo,68,Male,Goldenrod,dr_scholls_time_off_go_black,Aquamarine,Philippines,true,7,$395.44
+Concettina,Howgego,63,Polygender,Puce,jordan_6_rings_black,Puce,Greece,false,8,$623.41
+Evangelin,Crowe,70,Female,Violet,nike_air_max_plus_g_white,Red,South Africa,true,2,$374.78
+Colas,Avis,68,Male,Khaki,sketchers_arch_fit_laguna_gray,Pink,China,true,10,$383.54
+Dino,Swaite,63,Male,Purple,jordan_spizike_low_pink,Fuscia,Nigeria,true,1,$338.97
+Stacey,Pavyer,68,Female,Puce,nike_air_force_1_07_se_lny_white,Green,Indonesia,true,3,$918.56
+Mirella,Sponer,61,Female,Fuscia,clair_hair_leather_mary_jane_flat_black,Turquoise,Indonesia,true,10,$881.10
+Dee,June,66,Female,Violet,sketcher_max_cushioning_endeavour_black,Indigo,Peru,true,9,$650.78
+Stephani,Leabeater,69,Female,Aquamarine,signature_stripe_leather_court_sneaker_white,Pink,China,true,7,$101.24
+Lyndel,Battany,61,Female,Puce,air_jordan1_mid_se_edge_pink,Teal,China,false,4,$31.24
+Roslyn,Holleworth,65,Female,Purple,clair_hair_leather_mary_jane_flat_black,Red,Panama,false,9,$744.24
+Gwenette,Denisyev,68,Female,Maroon,sktecher_slip_in_go_run_max_cushioning_purple,Crimson,Indonesia,false,8,$160.07
+Ines,Stanmore,66,Female,Maroon,sketchers_arch_fit_laguna_gray,Yellow,China,false,1,$502.65
+Nikita,Ezzell,68,Male,Puce,sketchers_arch_fit_laguna_gray,Maroon,China,true,9,$525.59
+Tarrah,Shine,63,Female,Maroon,nike_revolution_8_pink,Yellow,Russia,false,3,$309.10
+Thorny,Skupinski,69,Male,Purple,signature_stripe_leather_court_sneaker_white,Pink,Russia,false,9,$28.69
+Carlie,Lomaz,62,Male,Turquoise,jordan_6_rings_black,Teal,China,false,10,$919.50
+Nester,Pruvost,62,Male,Puce,sktecher_slip_in_go_run_max_cushioning_purple,Mauv,Indonesia,false,1,$484.45
+Arabel,Cottingham,64,Female,Pink,nike_air_max_plus_g_white,Purple,Poland,false,3,$878.36
+Hasheem,Limb,69,Male,Pink,air_jordan1_mid_se_edge_pink,Blue,France,false,3,$901.24
+Dallas,Billington,64,Male,Teal,skechers_arch_fit_laguna_black,Green,Argentina,false,9,$384.22
+Carmelita,Questier,69,Female,Yellow,jordan_6_rings_black,Crimson,Croatia,false,8,$514.50
+Sayre,Spearett,67,Male,Red,nike_air_max_plus_g_white,Blue,Azerbaijan,false,5,$608.60
+Kissiah,Drugan,69,Female,Blue,sketchers_arch_fit_laguna_gray,Red,Philippines,true,1,$857.35
+Cyndi,Udie,69,Female,Mauv,nike_air_max_plus_g_white,Goldenrod,Sweden,false,6,$754.00
+Lizabeth,Gardiner,64,Female,Yellow,sketcher_max_cushioning_endeavour_black,Mauv,Indonesia,false,10,$951.42
+Carolynn,Helling,61,Female,Fuscia,sketchers_arch_fit_laguna_gray,Violet,Indonesia,true,6,$992.04
+Horten,Akister,69,Male,Khaki,sktecher_slip_in_go_run_max_cushioning_purple,Red,Bangladesh,false,8,$38.24
+Roz,Coyne,69,Female,Red,nike_revolution_8_pink,Puce,Kyrgyzstan,false,1,$122.04
+Malinde,Munnery,65,Female,Green,sketcher_max_cushioning_endeavour_black,Fuscia,China,false,4,$181.77
+Galina,Lomax,70,Female,Turquoise,sktecher_slip_in_go_run_max_cushioning_purple,Indigo,Russia,true,1,$778.22
+Lavena,Hairon,64,Female,Crimson,clair_hair_leather_mary_jane_flat_black,Fuscia,Italy,true,2,$377.11
+Baxter,Kollas,69,Male,Puce,sketchers_max_cushioning_endeavour_athletic_running_black,Puce,Greece,true,5,$956.96
+Kahlil,Aird,67,Male,Red,jordan_spizike_low_pink,Mauv,Spain,true,1,$670.14
+Laverne,Sturgis,61,Genderqueer,Green,signature_stripe_leather_court_sneaker_white,Violet,Ecuador,true,9,$441.72
+Elie,Boldt,64,Female,Aquamarine,sketchers_arch_fit_laguna_gray,Maroon,Colombia,true,3,$500.38
+Farand,Hubery,64,Female,Purple,sketchers_max_cushioning_endeavour_athletic_running_black,Goldenrod,Croatia,false,3,$890.61
+Kimbra,Mattek,66,Female,Khaki,nike_revolution_8_pink,Blue,Madagascar,false,3,$482.49
+Gasper,Walenta,68,Male,Turquoise,jordan_spizike_low_pink,Red,China,false,5,$751.25
+Brittan,Dallman,69,Female,Goldenrod,nike_air_max_plus_g_white,Khaki,Indonesia,false,2,$884.52
+Joe,Bray,62,Male,Fuscia,clair_hair_leather_mary_jane_flat_black,Red,Indonesia,false,9,$245.28
+Horten,Keeton,70,Male,Violet,air_jordan1_mid_se_edge_pink,Pink,Brazil,true,7,$191.17
+Upton,Gylle,67,Male,Crimson,sktecher_slip_in_go_run_max_cushioning_purple,Khaki,Norway,true,7,$118.56
+Leon,Sprackling,68,Male,Violet,skechers_arch_fit_laguna_black,Red,Tunisia,false,9,$338.26
+Kimberlyn,Haggith,69,Female,Violet,air_jordan1_mid_se_edge_pink,Turquoise,Cuba,true,1,$206.04
+Edik,Destouche,60,Male,Puce,skechers_arch_fit_laguna_black,Red,Honduras,false,10,$183.68
+Ede,Branson,70,Female,Green,sketcher_max_cushioning_endeavour_black,Turquoise,Netherlands,false,7,$32.66
+Collie,Bagshaw,70,Female,Puce,jordan_6_rings_black,Blue,Gambia,true,1,$798.72
+Derril,McAnulty,66,Male,Violet,air_jordan1_mid_se_edge_pink,Puce,France,false,2,$770.26
+Byrle,Cheney,67,Male,Purple,jordan_6_rings_black,Maroon,Guatemala,false,5,$718.51
+Bourke,Malicki,67,Male,Crimson,mixed_texture_chunky_leather_sneaker_white,Blue,China,false,1,$195.50
+Kaile,Margrett,60,Female,Pink,nike_air_max_plus_g_white,Orange,Nigeria,true,8,$599.20
+Keary,Goldspink,70,Male,Mauv,signature_stripe_leather_court_sneaker_white,Khaki,Morocco,false,2,$432.27
+Muhammad,Hallagan,69,Male,Pink,nike_revolution_8_pink,Crimson,Thailand,true,10,$428.71
+Julita,Crockatt,70,Female,Mauv,air_jordan1_mid_se_edge_pink,Mauv,Brazil,false,7,$774.39
+Trent,Hardey,61,Male,Turquoise,nike_air_force_1_07_se_lny_white,Yellow,Finland,true,7,$513.10
+Ingemar,Featherston,63,Male,Teal,nike_air_max_plus_g_white,Indigo,Sweden,true,8,$460.62
+Ulick,Joliffe,69,Male,Indigo,jordan_spizike_low_pink,Puce,Niger,true,10,$498.32
+Sinclair,Charke,60,Male,Goldenrod,nike_air_max_plus_g_white,Khaki,China,true,9,$827.11
+Troy,Alfonzo,60,Male,Fuscia,dr_scholls_time_off_go_black,Fuscia,Indonesia,false,2,$107.52
+Granthem,Adds,69,Male,Mauv,jordan_6_rings_black,Puce,Portugal,false,6,$834.60
+Alyss,Edmondson,65,Female,Orange,sketchers_arch_fit_laguna_gray,Aquamarine,Czech Republic,true,2,$300.19
+Gayleen,Prozillo,66,Female,Violet,dr_scholls_time_off_go_black,Green,Democratic Republic of the Congo,false,4,$881.76
+Ashley,Barrat,66,Male,Turquoise,signature_stripe_leather_court_sneaker_white,Khaki,United States,false,3,$158.31
+Shelton,Bordes,65,Male,Pink,nike_air_max_plus_g_white,Crimson,China,false,4,$523.37
+Marie-ann,Pantecost,63,Female,Orange,nike_air_force_1_07_se_lny_white,Mauv,China,false,7,$856.36
+Kim,Waldock,66,Female,Crimson,dr_scholls_time_off_go_black,Violet,Brazil,true,6,$569.27
+Ludovika,Sumshon,62,Female,Yellow,skechers_arch_fit_laguna_black,Red,Panama,false,10,$282.95
+Orbadiah,Breakspear,62,Male,Violet,air_jordan1_mid_se_edge_pink,Mauv,Indonesia,false,7,$332.64
+Greg,Mizen,63,Male,Maroon,clair_hair_leather_mary_jane_flat_black,Teal,China,true,3,$529.91
+Blondy,Walburn,70,Female,Puce,dr_scholls_time_off_go_black,Orange,United States,false,2,$294.11
+Hillary,Moulden,66,Male,Turquoise,sketchers_max_cushioning_endeavour_athletic_running_black,Mauv,Mexico,true,5,$775.33
+Nil,Schuchmacher,68,Male,Purple,nike_air_force_1_07_se_lny_white,Red,China,false,1,$247.43
+Mabelle,Zamora,70,Female,Blue,nike_air_force_1_07_se_lny_white,Purple,Indonesia,false,7,$315.35
+Fiona,Lafferty,62,Female,Violet,mixed_texture_chunky_leather_sneaker_white,Purple,China,false,7,$980.22
+Talya,Snoddy,64,Female,Orange,air_jordan1_mid_se_edge_pink,Blue,Serbia,true,9,$982.65
+Giulietta,Segot,61,Female,Pink,clair_hair_leather_mary_jane_flat_black,Goldenrod,Brazil,false,6,$522.59
+Lemuel,Dur,70,Male,Maroon,dr_scholls_time_off_go_black,Crimson,Germany,false,1,$453.95
+Andriette,Servant,61,Female,Red,dr_scholls_time_off_go_black,Pink,Russia,false,8,$271.23
+Keefer,Powdrell,62,Male,Teal,jordan_spizike_low_pink,Blue,Serbia,true,9,$603.01
+Enrico,Gwyn,66,Male,Green,sketchers_arch_fit_laguna_gray,Green,Portugal,false,1,$253.38
+Shena,Harbar,69,Female,Teal,jordan_spizike_low_pink,Green,Germany,false,3,$19.63
+Zacharie,Gardiner,60,Male,Indigo,mixed_texture_chunky_leather_sneaker_white,Blue,Indonesia,false,10,$619.98
+Kennith,Pischoff,68,Male,Red,nike_air_max_plus_g_white,Fuscia,Japan,true,3,$661.50
+Morse,Paramore,64,Male,Pink,jordan_6_rings_black,Red,Brazil,true,8,$42.48
+Alric,Carbett,69,Male,Goldenrod,sketchers_max_cushioning_endeavour_athletic_running_black,Indigo,Nigeria,false,9,$676.37
+Prisca,Etter,64,Female,Green,mixed_texture_chunky_leather_sneaker_white,Red,China,true,3,$549.96
+Giuditta,Inglese,60,Female,Yellow,jordan_spizike_low_pink,Turquoise,Greece,false,9,$347.68
+Chrotoem,Crofts,62,Agender,Fuscia,air_jordan1_mid_se_edge_pink,Crimson,Indonesia,true,10,$133.22
+Page,Nassi,66,Male,Khaki,sktecher_slip_in_go_run_max_cushioning_purple,Green,North Korea,false,4,$385.05
+Derick,Kenelin,69,Male,Turquoise,sktecher_slip_in_go_run_max_cushioning_purple,Teal,United States,false,2,$15.09
+Jeane,Keddie,65,Female,Aquamarine,jordan_spizike_low_pink,Maroon,Armenia,true,10,$179.99
+Trumann,McGuffie,66,Male,Goldenrod,air_jordan1_mid_se_edge_pink,Indigo,Russia,true,5,$317.25
+Alberta,Inger,60,Female,Fuscia,sketcher_max_cushioning_endeavour_black,Mauv,Czech Republic,false,6,$44.35
+Meghan,Bennen,69,Female,Aquamarine,skechers_arch_fit_laguna_black,Fuscia,Portugal,true,6,$986.54
+Dick,Duthy,69,Male,Turquoise,sketcher_max_cushioning_endeavour_black,Puce,Taiwan,true,9,$960.06
+Ebba,Ingledew,64,Female,Fuscia,nike_air_force_1_07_se_lny_white,Yellow,South Africa,true,7,$186.90
+Mabelle,Weddup,67,Female,Puce,nike_air_force_1_07_se_lny_white,Mauv,France,true,8,$249.56
+Bar,Devonport,65,Male,Indigo,sktecher_slip_in_go_run_max_cushioning_purple,Mauv,Indonesia,false,9,$671.77
+Manolo,Ancliff,61,Male,Khaki,nike_air_force_1_07_se_lny_white,Violet,Pakistan,false,10,$129.71
+Oralla,Soigne,61,Female,Green,skechers_arch_fit_laguna_black,Indigo,China,false,10,$117.80
+Baxie,Montez,61,Male,Yellow,nike_air_force_1_07_se_lny_white,Maroon,China,false,4,$637.82
+Shaw,Kubatsch,69,Male,Mauv,nike_air_max_plus_g_white,Puce,Cuba,false,2,$792.76
+Hiram,Delamaine,64,Male,Maroon,nike_air_max_plus_g_white,Pink,Philippines,false,5,$17.98
+Vanya,Heninghem,68,Female,Pink,sketchers_arch_fit_laguna_gray,Crimson,Indonesia,false,4,$124.38
+Meredeth,Hairesnape,62,Male,Puce,nike_air_max_plus_g_white,Red,Greece,true,1,$806.53
+Cayla,McGlone,68,Agender,Blue,dr_scholls_time_off_go_black,Fuscia,Croatia,false,10,$675.85
+Kalli,Hance,69,Female,Teal,nike_air_force_1_07_se_lny_white,Maroon,Peru,false,10,$444.57
+Ulrick,Dodman,60,Male,Yellow,jordan_spizike_low_pink,Mauv,Indonesia,false,5,$773.93
+Bertram,Ticic,61,Male,Pink,clair_hair_leather_mary_jane_flat_black,Violet,Nigeria,false,1,$499.67
+Yasmeen,Marsh,61,Female,Yellow,sktecher_slip_in_go_run_max_cushioning_purple,Goldenrod,Afghanistan,true,6,$988.11
+Roselle,Megainey,67,Female,Teal,air_jordan1_mid_se_edge_pink,Mauv,Indonesia,false,8,$97.78
+Errol,Davidovits,63,Male,Teal,nike_air_max_plus_g_white,Khaki,Philippines,false,9,$215.22
+Daloris,Astupenas,60,Female,Pink,dr_scholls_time_off_go_black,Teal,France,true,3,$439.53
+Marketa,Finch,63,Female,Turquoise,nike_air_force_1_07_se_lny_white,Blue,Portugal,false,3,$85.14
+Hughie,Sealeaf,64,Male,Mauv,sketcher_max_cushioning_endeavour_black,Red,Iran,false,9,$188.54
+Lorne,McPherson,67,Male,Fuscia,clair_hair_leather_mary_jane_flat_black,Red,Czech Republic,true,5,$655.54
+Marietta,Ateridge,63,Male,Maroon,sketchers_max_cushioning_endeavour_athletic_running_black,Teal,Russia,false,10,$576.30
+Chiquita,Teissier,70,Female,Yellow,nike_revolution_8_pink,Orange,Mauritius,false,9,$947.90
+Daloris,Curcher,63,Female,Purple,clair_hair_leather_mary_jane_flat_black,Goldenrod,Japan,true,7,$282.78
+Byrann,Maurice,64,Male,Maroon,dr_scholls_time_off_go_black,Puce,Poland,true,5,$902.05
+Leone,Garoghan,64,Female,Aquamarine,sketchers_arch_fit_laguna_gray,Teal,Brazil,false,10,$46.29
+Ham,Wharram,65,Male,Maroon,sketchers_max_cushioning_endeavour_athletic_running_black,Fuscia,Estonia,true,10,$905.63
+Phil,Kennet,62,Agender,Blue,clair_hair_leather_mary_jane_flat_black,Pink,Russia,true,9,$519.34
+Jim,Berg,60,Male,Khaki,sketcher_max_cushioning_endeavour_black,Fuscia,Argentina,false,7,$82.05
+Cherrita,Faudrie,61,Bigender,Green,sktecher_slip_in_go_run_max_cushioning_purple,Red,Nicaragua,true,1,$817.94
+Joela,Moresby,62,Female,Indigo,nike_air_force_1_07_se_lny_white,Crimson,Indonesia,true,3,$513.46
+Shaylyn,Heatley,70,Genderfluid,Purple,air_jordan1_mid_se_edge_pink,Maroon,Nepal,false,1,$908.35
+Hettie,D'Antonio,62,Female,Violet,nike_air_max_plus_g_white,Orange,Russia,true,7,$40.08
+Alwyn,Stutard,68,Male,Aquamarine,nike_air_max_plus_g_white,Teal,Japan,true,10,$435.15
+Konrad,Baguley,64,Male,Mauv,nike_air_force_1_07_se_lny_white,Maroon,United States,true,7,$134.37
+Meredeth,Martland,69,Male,Blue,sktecher_slip_in_go_run_max_cushioning_purple,Maroon,China,true,1,$917.73
+Kenton,Binley,66,Male,Green,nike_air_force_1_07_se_lny_white,Indigo,Philippines,false,10,$42.79
+Alric,Peeters,65,Non-binary,Mauv,sketchers_arch_fit_laguna_gray,Turquoise,Brazil,false,7,$419.51
+Myrle,Elfes,64,Female,Purple,nike_air_max_plus_g_white,Mauv,Philippines,true,5,$135.11
+Marty,Cochran,70,Male,Violet,sktecher_slip_in_go_run_max_cushioning_purple,Crimson,Mongolia,true,9,$122.40
+Launce,Antonucci,67,Male,Violet,nike_air_max_plus_g_white,Khaki,South Sudan,false,8,$112.12
+Ellery,Limon,69,Male,Orange,nike_air_max_plus_g_white,Indigo,Ukraine,false,2,$693.66
+Valentia,Esson,67,Female,Red,sketchers_max_cushioning_endeavour_athletic_running_black,Maroon,Poland,false,10,$244.79
+Florie,Hallbird,61,Female,Violet,sketchers_arch_fit_laguna_gray,Orange,China,false,2,$24.54
+Derwin,Holbury,64,Male,Crimson,clair_hair_leather_mary_jane_flat_black,Purple,Portugal,true,3,$316.58
+Jermain,McCotter,62,Male,Yellow,nike_air_force_1_07_se_lny_white,Goldenrod,Peru,true,4,$371.53
+Lindie,Le Barr,60,Female,Orange,jordan_6_rings_black,Mauv,Uzbekistan,true,7,$747.36
+Adham,Haughin,66,Male,Goldenrod,air_jordan1_mid_se_edge_pink,Pink,Russia,true,8,$675.44
+Yardley,Idill,60,Male,Mauv,sketchers_arch_fit_laguna_gray,Red,Colombia,false,1,$496.61
+Bobinette,Field,65,Female,Goldenrod,sketcher_max_cushioning_endeavour_black,Pink,Portugal,true,6,$647.13
+Hildy,Grimm,66,Bigender,Fuscia,air_jordan1_mid_se_edge_pink,Fuscia,China,true,9,$717.47
+Megen,Conichie,64,Female,Khaki,nike_revolution_8_pink,Fuscia,Sweden,false,1,$524.06
+Theodor,Farries,62,Male,Red,jordan_6_rings_black,Khaki,Serbia,true,10,$517.59
+Lillian,Fyfe,69,Female,Blue,mixed_texture_chunky_leather_sneaker_white,Orange,Portugal,true,5,$893.43
+Caressa,Wishart,60,Female,Khaki,sketcher_max_cushioning_endeavour_black,Blue,Kenya,false,1,$419.53
+Sebastien,Adame,60,Male,Orange,nike_air_max_plus_g_white,Goldenrod,Peru,false,4,$688.24
+Steward,Scholler,62,Male,Maroon,sketchers_max_cushioning_endeavour_athletic_running_black,Teal,Vietnam,false,10,$512.31
+Christiana,Conduit,68,Female,Teal,nike_air_force_1_07_se_lny_white,Blue,China,false,10,$556.23
+Xenos,Avery,62,Male,Turquoise,sketchers_arch_fit_laguna_gray,Pink,Brazil,true,3,$854.42
+Gillie,Alldridge,65,Female,Maroon,jordan_spizike_low_pink,Yellow,Venezuela,false,5,$691.95
+Pincas,Basill,68,Male,Crimson,nike_revolution_8_pink,Turquoise,Palestinian Territory,false,7,$304.52
+Grier,Siderfin,60,Female,Indigo,nike_air_max_plus_g_white,Aquamarine,Niger,true,9,$11.01
+Welbie,McCotter,65,Male,Puce,nike_air_max_plus_g_white,Fuscia,Palestinian Territory,false,3,$870.98
+Town,Pedlingham,67,Male,Purple,nike_revolution_8_pink,Indigo,Russia,false,4,$998.29
+Modesta,Kelberman,69,Genderqueer,Aquamarine,signature_stripe_leather_court_sneaker_white,Goldenrod,Syria,true,3,$550.41
+Eward,Garrow,60,Male,Puce,sketchers_max_cushioning_endeavour_athletic_running_black,Yellow,China,true,4,$111.87
+Tanitansy,Gohn,66,Female,Maroon,jordan_6_rings_black,Turquoise,Indonesia,true,5,$483.49
+Donnamarie,Strapp,68,Female,Orange,nike_revolution_8_pink,Goldenrod,China,false,3,$632.07
+Mirabel,Gooddie,65,Female,Green,dr_scholls_time_off_go_black,Teal,China,true,7,$383.59
+Peri,Legerwood,60,Female,Blue,nike_air_max_plus_g_white,Red,Palestinian Territory,true,4,$788.72
+Harrison,Borris,61,Male,Aquamarine,nike_revolution_8_pink,Turquoise,Uganda,false,7,$631.27
+Marcelo,Dexter,65,Male,Mauv,sketcher_max_cushioning_endeavour_black,Indigo,China,false,9,$102.76
+Ariana,Drakeford,62,Female,Crimson,nike_air_force_1_07_se_lny_white,Orange,Albania,false,5,$776.18
+Norah,Dairton,65,Non-binary,Orange,jordan_spizike_low_pink,Violet,Portugal,false,10,$62.15
+Amandie,Birtonshaw,65,Female,Crimson,signature_stripe_leather_court_sneaker_white,Pink,Czech Republic,false,10,$854.67
+Orella,Imore,69,Female,Green,nike_air_max_plus_g_white,Mauv,Bulgaria,true,3,$176.30
+Charmane,Senechell,61,Female,Pink,jordan_spizike_low_pink,Blue,Russia,false,1,$74.99
+Janessa,Mourant,63,Female,Puce,nike_air_max_plus_g_white,Teal,Portugal,true,5,$652.32
+Giffie,Ibbs,61,Male,Maroon,nike_air_force_1_07_se_lny_white,Green,Poland,false,2,$488.13
+Ileane,Everex,61,Female,Violet,air_jordan1_mid_se_edge_pink,Violet,Poland,false,9,$42.34
+Corabel,Swiffan,67,Female,Indigo,sketchers_max_cushioning_endeavour_athletic_running_black,Red,China,false,3,$66.43
+Joelle,Crummey,65,Polygender,Aquamarine,sketchers_arch_fit_laguna_gray,Fuscia,Russia,true,6,$739.73
+Mervin,Burniston,65,Male,Pink,nike_air_force_1_07_se_lny_white,Pink,Bahrain,false,3,$806.24
+Abby,Tomaskov,70,Genderqueer,Indigo,skechers_arch_fit_laguna_black,Green,Canada,true,9,$660.72
+Melitta,Dietmar,69,Bigender,Khaki,dr_scholls_time_off_go_black,Mauv,Philippines,false,1,$529.85
+Turner,Biernacki,69,Male,Maroon,mixed_texture_chunky_leather_sneaker_white,Puce,Sweden,true,8,$359.42
+Anastasie,Penney,63,Bigender,Turquoise,jordan_6_rings_black,Goldenrod,China,false,10,$347.28
+Fair,Trevon,70,Male,Violet,sketchers_arch_fit_laguna_gray,Pink,Russia,false,6,$252.35
+Carrie,Scantlebury,60,Female,Red,signature_stripe_leather_court_sneaker_white,Indigo,Philippines,true,2,$243.92
+Zacharie,Engall,68,Male,Teal,sketchers_max_cushioning_endeavour_athletic_running_black,Indigo,China,false,3,$82.88
+Giff,Windram,64,Male,Indigo,sketcher_max_cushioning_endeavour_black,Red,China,false,7,$661.01
+Natividad,Moulding,70,Non-binary,Orange,signature_stripe_leather_court_sneaker_white,Teal,Russia,false,5,$453.05
+Grant,Redhills,62,Male,Goldenrod,nike_air_max_plus_g_white,Green,Canada,true,5,$344.25
+Pansie,Jeayes,63,Female,Purple,sketchers_arch_fit_laguna_gray,Red,Venezuela,true,4,$805.13
+Phillida,Worsham,67,Female,Pink,dr_scholls_time_off_go_black,Puce,Sweden,true,8,$536.55
+Dugald,Loveguard,67,Male,Goldenrod,sktecher_slip_in_go_run_max_cushioning_purple,Maroon,China,false,8,$244.67
+Fifine,Eltun,68,Female,Aquamarine,nike_revolution_8_pink,Purple,Peru,true,9,$471.77
+Cyndy,Main,60,Female,Purple,sketchers_arch_fit_laguna_gray,Blue,China,true,6,$567.18
+Paulie,Troillet,61,Female,Pink,jordan_6_rings_black,Puce,Indonesia,true,9,$832.67
+Nicole,Maseyk,64,Female,Yellow,sketchers_arch_fit_laguna_gray,Purple,France,true,10,$766.06
+Barri,Abbate,61,Male,Teal,nike_air_max_plus_g_white,Fuscia,Nepal,true,1,$670.61
+Calli,Murname,64,Female,Red,nike_air_max_plus_g_white,Red,Russia,true,4,$425.45
+Augusta,Corish,63,Female,Pink,jordan_spizike_low_pink,Indigo,Central African Republic,false,3,$487.48
+Wally,Beeson,65,Female,Fuscia,air_jordan1_mid_se_edge_pink,Indigo,United Arab Emirates,true,7,$992.85
+Malinde,Wooldridge,65,Female,Goldenrod,sketcher_max_cushioning_endeavour_black,Red,Russia,true,5,$733.45
+Monica,Wagner,69,Female,Green,nike_revolution_8_pink,Purple,Egypt,false,6,$403.39
+Lucine,Libreros,62,Female,Mauv,nike_air_max_plus_g_white,Violet,Ukraine,true,3,$521.48
+Dorothea,Thurber,69,Female,Goldenrod,nike_air_force_1_07_se_lny_white,Green,Costa Rica,true,9,$335.63
+Aida,Maryman,67,Female,Goldenrod,jordan_6_rings_black,Red,Netherlands,false,10,$367.51
+Tomas,Halkyard,60,Male,Mauv,jordan_6_rings_black,Puce,China,false,1,$824.08
+Arri,Danev,66,Male,Teal,signature_stripe_leather_court_sneaker_white,Goldenrod,Poland,false,7,$955.47
+Margo,Fisby,62,Female,Purple,dr_scholls_time_off_go_black,Red,Canada,false,7,$107.22
+Padget,Huikerby,64,Male,Turquoise,nike_air_force_1_07_se_lny_white,Yellow,Ukraine,false,9,$230.62
+Evangelia,Scrannage,63,Female,Purple,skechers_arch_fit_laguna_black,Purple,Indonesia,false,3,$863.47
+Shelley,Proffer,64,Male,Purple,nike_air_max_plus_g_white,Fuscia,Tanzania,true,7,$296.42
+Vin,Grellis,60,Male,Turquoise,jordan_spizike_low_pink,Blue,Czech Republic,false,4,$615.12
+Courtney,Janse,69,Genderfluid,Mauv,nike_revolution_8_pink,Khaki,Thailand,true,8,$78.00
+Nickolaus,Elfe,61,Male,Yellow,dr_scholls_time_off_go_black,Pink,Philippines,false,9,$50.75
+Darda,Martinon,70,Non-binary,Green,sketcher_max_cushioning_endeavour_black,Yellow,Russia,false,5,$160.85
+Dasya,Rudloff,68,Female,Khaki,nike_air_force_1_07_se_lny_white,Goldenrod,Greece,false,8,$93.15
+Rosamond,McBain,69,Bigender,Mauv,skechers_arch_fit_laguna_black,Teal,Micronesia,false,9,$598.30
+Eleni,Chellenham,63,Agender,Puce,air_jordan1_mid_se_edge_pink,Blue,Serbia,false,10,$346.27
+Duncan,Glencross,70,Male,Red,signature_stripe_leather_court_sneaker_white,Turquoise,United States,false,8,$394.38
+Rosemonde,Mignot,70,Female,Orange,dr_scholls_time_off_go_black,Purple,Macedonia,false,9,$957.35
+Tootsie,Vasovic,60,Female,Purple,sketcher_max_cushioning_endeavour_black,Indigo,Azerbaijan,false,6,$439.47
+Modesta,Daggett,64,Genderfluid,Puce,nike_revolution_8_pink,Turquoise,China,true,2,$614.83
+Fawnia,Fearney,66,Female,Red,dr_scholls_time_off_go_black,Turquoise,United States,true,4,$32.23
+Quinton,Scarborough,60,Male,Red,sketchers_max_cushioning_endeavour_athletic_running_black,Aquamarine,Macedonia,false,5,$40.72
+Lisbeth,Enevold,67,Genderqueer,Fuscia,sketchers_arch_fit_laguna_gray,Teal,Brazil,true,2,$829.09
+Mathilde,Neles,65,Female,Goldenrod,nike_air_max_plus_g_white,Crimson,France,true,4,$648.73
+Vikky,Robion,60,Female,Goldenrod,nike_revolution_8_pink,Khaki,Malaysia,true,2,$549.01
+Dominik,Swiffin,61,Male,Goldenrod,mixed_texture_chunky_leather_sneaker_white,Goldenrod,Indonesia,true,9,$498.31
+Hamilton,Allum,60,Male,Yellow,jordan_spizike_low_pink,Mauv,Greece,false,10,$128.54
+Melania,Eisikovitsh,62,Female,Goldenrod,sketcher_max_cushioning_endeavour_black,Crimson,Portugal,false,5,$223.72
+Averil,Larsen,66,Male,Orange,dr_scholls_time_off_go_black,Turquoise,Poland,true,2,$1000.00
+Vanni,Henrichs,67,Female,Blue,nike_air_force_1_07_se_lny_white,Red,Croatia,false,10,$665.16
+Meredith,Lithcow,68,Female,Turquoise,clair_hair_leather_mary_jane_flat_black,Crimson,China,true,2,$915.81
+Moises,Scrowston,66,Male,Turquoise,sketchers_max_cushioning_endeavour_athletic_running_black,Red,Philippines,false,7,$952.05
+Hyacinthe,Verdy,64,Female,Khaki,jordan_6_rings_black,Purple,Venezuela,false,8,$990.41
+Karlee,Dargan,63,Female,Pink,jordan_spizike_low_pink,Blue,Myanmar,false,8,$736.82
+Griffie,Deaconson,65,Male,Red,nike_air_max_plus_g_white,Crimson,Argentina,true,2,$945.47
+Brittaney,McGhee,68,Female,Teal,jordan_spizike_low_pink,Maroon,China,true,3,$959.43
+Noe,Petrello,62,Male,Fuscia,skechers_arch_fit_laguna_black,Pink,Indonesia,false,8,$379.59
+Taite,Foxall,66,Male,Puce,nike_revolution_8_pink,Green,Venezuela,false,2,$385.70
+Grantham,Casaro,66,Male,Red,jordan_spizike_low_pink,Blue,China,false,6,$163.17
+Cammy,Vasenin,66,Male,Purple,nike_air_force_1_07_se_lny_white,Violet,China,false,2,$852.10
+Bernardina,Bonhill,60,Female,Blue,nike_air_force_1_07_se_lny_white,Puce,Indonesia,false,9,$41.75
+Meyer,Bucky,70,Agender,Violet,sketchers_max_cushioning_endeavour_athletic_running_black,Goldenrod,Indonesia,false,5,$297.70
+Rupert,MacFarlane,61,Male,Khaki,nike_air_max_plus_g_white,Blue,Czech Republic,true,2,$590.23
+Teressa,Tedahl,70,Female,Yellow,sketchers_max_cushioning_endeavour_athletic_running_black,Mauv,China,true,4,$240.15
+Colman,Ortelt,65,Male,Purple,signature_stripe_leather_court_sneaker_white,Blue,Czech Republic,false,4,$588.06
+Rosy,Dismore,62,Polygender,Crimson,sketchers_arch_fit_laguna_gray,Puce,Indonesia,true,2,$907.15
+Delano,Farryann,63,Male,Violet,nike_air_max_plus_g_white,Goldenrod,South Africa,false,10,$33.62
+Ellyn,Gull,70,Female,Fuscia,nike_air_force_1_07_se_lny_white,Red,Indonesia,true,5,$733.05
+Bryon,Jeanel,60,Male,Violet,sketchers_arch_fit_laguna_gray,Green,Mexico,true,3,$74.21
+Felipe,Pahl,69,Male,Yellow,sketcher_max_cushioning_endeavour_black,Maroon,Russia,true,6,$467.02
+Dulcea,Riddoch,60,Female,Blue,sketchers_arch_fit_laguna_gray,Red,France,true,4,$450.95
+Davy,Tummasutti,62,Male,Violet,signature_stripe_leather_court_sneaker_white,Fuscia,United States,false,8,$445.10
+Margarita,Eastope,61,Female,Indigo,nike_air_force_1_07_se_lny_white,Blue,Indonesia,false,1,$995.05
+Vic,Cockin,62,Male,Violet,jordan_6_rings_black,Fuscia,China,false,9,$464.96
+Nady,Axel,70,Female,Goldenrod,sketcher_max_cushioning_endeavour_black,Pink,Russia,false,3,$887.39
+Stacie,Brewers,69,Female,Orange,sketchers_max_cushioning_endeavour_athletic_running_black,Pink,United States,false,7,$440.96
+Arlen,Heap,64,Female,Blue,nike_revolution_8_pink,Green,China,true,9,$708.27
+Inigo,Mustin,62,Male,Violet,dr_scholls_time_off_go_black,Blue,Poland,true,1,$213.79
+Cesaro,Evangelinos,65,Male,Crimson,sketcher_max_cushioning_endeavour_black,Aquamarine,Syria,false,4,$725.18
+Dav,Pleass,65,Male,Puce,jordan_6_rings_black,Turquoise,Russia,true,3,$119.49
+Lorrie,Weekes,61,Female,Puce,nike_air_max_plus_g_white,Mauv,Poland,true,5,$792.38
+Briana,Roebuck,68,Female,Blue,nike_air_force_1_07_se_lny_white,Purple,Russia,true,4,$317.24
+Karine,Ching,68,Female,Violet,nike_revolution_8_pink,Orange,Afghanistan,true,5,$684.08
+Killian,Nunan,63,Male,Indigo,signature_stripe_leather_court_sneaker_white,Blue,France,true,7,$959.37
+Burnaby,Jent,66,Male,Indigo,signature_stripe_leather_court_sneaker_white,Blue,Denmark,false,9,$369.51
+Filmer,Corbridge,62,Male,Red,jordan_6_rings_black,Khaki,Portugal,true,7,$367.23
+Thom,Mouan,60,Male,Fuscia,jordan_6_rings_black,Violet,Indonesia,true,4,$49.00
+Lek,Checo,65,Male,Khaki,air_jordan1_mid_se_edge_pink,Blue,China,true,3,$295.79
+Gian,Lowthian,64,Male,Pink,sketchers_max_cushioning_endeavour_athletic_running_black,Fuscia,Brazil,false,8,$899.01
+Sarah,Stoyles,68,Female,Blue,jordan_spizike_low_pink,Violet,France,true,3,$739.61
+Hayley,Morphew,70,Female,Aquamarine,jordan_6_rings_black,Violet,Iran,false,8,$118.58
+Garrick,Burbury,64,Male,Teal,skechers_arch_fit_laguna_black,Turquoise,Portugal,false,3,$469.94
+Iago,Avard,60,Male,Puce,jordan_6_rings_black,Green,Norway,false,6,$990.84
+Isac,Huegett,69,Male,Teal,sktecher_slip_in_go_run_max_cushioning_purple,Green,Sweden,false,1,$855.61
+Leah,Woolen,67,Female,Orange,clair_hair_leather_mary_jane_flat_black,Indigo,Brazil,true,10,$207.40
+Gerhardt,Griffiths,69,Male,Goldenrod,sketcher_max_cushioning_endeavour_black,Fuscia,Colombia,false,4,$105.38
+Derward,Rives,69,Male,Aquamarine,nike_air_force_1_07_se_lny_white,Fuscia,China,true,2,$419.57
+Scottie,Eggleston,63,Male,Teal,sketchers_arch_fit_laguna_gray,Yellow,China,false,3,$618.58
+Renato,Leverington,61,Male,Blue,clair_hair_leather_mary_jane_flat_black,Red,Saudi Arabia,false,10,$959.80
+Raffarty,Runnicles,65,Male,Maroon,jordan_6_rings_black,Turquoise,Albania,true,10,$901.60
+Cobbie,Sugars,68,Male,Pink,skechers_arch_fit_laguna_black,Pink,Indonesia,false,3,$206.47
+Vickie,Bliben,64,Female,Maroon,jordan_spizike_low_pink,Violet,Dominican Republic,false,8,$698.63
+Baird,Douberday,66,Male,Green,sketcher_max_cushioning_endeavour_black,Aquamarine,Japan,true,6,$910.50
+Susana,Morrison,67,Female,Indigo,nike_air_force_1_07_se_lny_white,Maroon,Poland,false,7,$18.18
+Binni,Gaitung,64,Female,Maroon,sketchers_max_cushioning_endeavour_athletic_running_black,Violet,France,false,4,$292.87
+Merrile,Brattell,69,Female,Blue,nike_revolution_8_pink,Orange,Indonesia,true,6,$67.87
+Marysa,Dunsmuir,64,Female,Green,clair_hair_leather_mary_jane_flat_black,Mauv,Indonesia,false,1,$484.72
+Donelle,Jaine,62,Female,Blue,sketchers_arch_fit_laguna_gray,Teal,Philippines,true,5,$294.92
+Cory,Cluett,63,Male,Fuscia,sktecher_slip_in_go_run_max_cushioning_purple,Aquamarine,France,false,2,$591.87
+Jeramie,McGrill,68,Male,Red,mixed_texture_chunky_leather_sneaker_white,Purple,China,false,2,$172.05
+Mirilla,McNutt,64,Female,Pink,dr_scholls_time_off_go_black,Red,Indonesia,false,10,$723.03
+Grissel,Biddlestone,62,Genderqueer,Maroon,nike_air_max_plus_g_white,Red,Philippines,false,4,$127.08
+Karita,Caldairou,61,Female,Goldenrod,sketchers_max_cushioning_endeavour_athletic_running_black,Blue,Thailand,false,4,$657.29
+Mari,Darter,61,Female,Violet,signature_stripe_leather_court_sneaker_white,Red,Poland,true,2,$6.42
+Abeu,Deveril,68,Male,Orange,air_jordan1_mid_se_edge_pink,Mauv,Russia,false,7,$81.35
+Agnes,Meach,68,Female,Teal,nike_revolution_8_pink,Teal,Russia,false,6,$293.65
+Kylie,Ellacott,62,Genderqueer,Yellow,mixed_texture_chunky_leather_sneaker_white,Green,Czech Republic,true,8,$214.20
+Hyacinthia,Crunkhurn,65,Female,Pink,signature_stripe_leather_court_sneaker_white,Orange,Philippines,true,10,$945.15
+Rana,Ewells,63,Female,Turquoise,sketchers_arch_fit_laguna_gray,Green,Costa Rica,false,8,$352.81
+Levy,Taggert,64,Male,Purple,jordan_spizike_low_pink,Crimson,Indonesia,false,4,$212.80
+Blondell,Rollinson,67,Female,Goldenrod,nike_air_force_1_07_se_lny_white,Green,Serbia,true,5,$68.17
+Garrick,Mattin,67,Male,Turquoise,nike_air_force_1_07_se_lny_white,Blue,Russia,false,3,$225.65
+Teresina,Ridulfo,64,Female,Teal,skechers_arch_fit_laguna_black,Teal,Canada,true,7,$880.08
+Madison,Braidman,67,Male,Indigo,sktecher_slip_in_go_run_max_cushioning_purple,Turquoise,United States,false,2,$385.47
+Bernette,Corby,70,Genderfluid,Khaki,nike_air_max_plus_g_white,Pink,France,false,5,$572.96
+Robby,Ridesdale,65,Female,Khaki,clair_hair_leather_mary_jane_flat_black,Violet,Poland,true,4,$294.20
+Rana,Westhofer,61,Female,Pink,signature_stripe_leather_court_sneaker_white,Yellow,Haiti,true,3,$56.23
+Adeline,Prodrick,65,Female,Crimson,nike_revolution_8_pink,Crimson,New Zealand,true,7,$193.97
+Reine,Shier,65,Female,Red,jordan_spizike_low_pink,Crimson,Philippines,true,2,$560.35
+Lenna,Dael,60,Female,Khaki,jordan_spizike_low_pink,Teal,France,true,1,$754.39
+Christen,Queree,62,Female,Blue,clair_hair_leather_mary_jane_flat_black,Khaki,Japan,false,1,$919.70
+Anatole,Ganforthe,67,Male,Blue,sketcher_max_cushioning_endeavour_black,Turquoise,Brazil,true,9,$498.07
+Emmalynn,Bolley,67,Female,Aquamarine,clair_hair_leather_mary_jane_flat_black,Turquoise,Nicaragua,true,6,$615.85
+Nappy,Pidler,61,Male,Green,nike_revolution_8_pink,Blue,Indonesia,true,3,$677.30
+Elsie,Auston,69,Female,Indigo,jordan_6_rings_black,Crimson,Czech Republic,false,5,$604.99
+Kelsey,Skeech,68,Female,Teal,nike_air_force_1_07_se_lny_white,Red,Portugal,true,2,$411.80
+Cammie,de Clerk,67,Female,Mauv,signature_stripe_leather_court_sneaker_white,Turquoise,China,true,1,$350.17
+Pietro,De Filippi,69,Male,Khaki,jordan_6_rings_black,Maroon,Luxembourg,false,4,$217.97
+Corina,Josifovic,69,Female,Crimson,air_jordan1_mid_se_edge_pink,Khaki,Italy,true,1,$608.17
+Simmonds,Gritskov,63,Male,Violet,air_jordan1_mid_se_edge_pink,Fuscia,Philippines,true,5,$474.31
+Eb,Bayne,64,Male,Red,sketcher_max_cushioning_endeavour_black,Green,Japan,false,2,$310.12
+Maryanne,Gowdy,62,Female,Indigo,nike_air_force_1_07_se_lny_white,Orange,Russia,true,5,$23.01
+Colan,Carrack,65,Male,Pink,sketchers_arch_fit_laguna_gray,Red,Philippines,false,6,$447.54
+Bryce,Conlaund,69,Male,Puce,nike_air_max_plus_g_white,Blue,Japan,true,3,$960.15
+Brocky,Beseke,64,Bigender,Blue,signature_stripe_leather_court_sneaker_white,Purple,China,false,7,$273.58
+Jessika,Mawditt,70,Female,Turquoise,signature_stripe_leather_court_sneaker_white,Teal,Philippines,false,6,$789.32
+Bernete,Hubbard,61,Female,Crimson,nike_air_max_plus_g_white,Khaki,Poland,true,4,$892.33
+Lazarus,Baudinelli,68,Male,Puce,nike_air_max_plus_g_white,Pink,France,false,2,$172.15
+Jeniece,Ruecastle,60,Female,Blue,jordan_6_rings_black,Teal,China,false,9,$946.01
+Odille,Winnard,61,Female,Teal,skechers_arch_fit_laguna_black,Indigo,Poland,true,7,$869.41
+Kareem,McVee,61,Male,Yellow,nike_air_max_plus_g_white,Goldenrod,China,false,4,$104.64
+Malcolm,Lannin,63,Male,Indigo,jordan_spizike_low_pink,Fuscia,Jordan,true,5,$367.76
+Teresina,Leatherborrow,68,Female,Red,clair_hair_leather_mary_jane_flat_black,Indigo,Poland,false,10,$814.12
+Finley,Chrystie,68,Male,Teal,jordan_6_rings_black,Puce,Guinea,false,4,$442.99
+Lydia,Souten,61,Female,Teal,air_jordan1_mid_se_edge_pink,Yellow,Indonesia,false,10,$985.04
+Theodoric,Vayro,63,Male,Maroon,dr_scholls_time_off_go_black,Teal,Sweden,false,6,$931.93
+Kalie,Lochead,63,Female,Mauv,nike_revolution_8_pink,Khaki,Thailand,false,5,$450.48
+Rodger,Agronski,70,Male,Teal,sketchers_arch_fit_laguna_gray,Yellow,North Korea,true,6,$561.01
+Augustus,Ledekker,68,Male,Khaki,nike_air_force_1_07_se_lny_white,Crimson,Indonesia,false,3,$958.88
+Suzanne,Chessun,66,Female,Puce,nike_air_force_1_07_se_lny_white,Indigo,Canada,true,7,$753.41
+Derrick,Chrichton,68,Male,Pink,sktecher_slip_in_go_run_max_cushioning_purple,Blue,China,true,8,$604.82
+Gaylor,Waples,68,Male,Fuscia,nike_air_max_plus_g_white,Orange,Portugal,false,6,$994.98
+Cedric,Ekkel,69,Male,Green,sketchers_max_cushioning_endeavour_athletic_running_black,Puce,France,true,8,$907.00
+Krista,Danby,67,Female,Maroon,air_jordan1_mid_se_edge_pink,Indigo,China,false,9,$491.02
+Ophelia,Pittet,67,Female,Violet,nike_air_max_plus_g_white,Turquoise,Indonesia,true,9,$861.77
+Zacherie,Alloway,69,Male,Purple,nike_air_max_plus_g_white,Goldenrod,Japan,false,2,$158.48
+Isaac,Simnell,65,Male,Mauv,nike_air_max_plus_g_white,Khaki,Finland,true,8,$224.17
+Sidney,Redwood,60,Male,Red,dr_scholls_time_off_go_black,Mauv,Sweden,false,3,$476.05
+Floyd,Papaccio,64,Male,Yellow,skechers_arch_fit_laguna_black,Red,France,false,4,$795.45
+Diannne,Spirit,66,Female,Goldenrod,nike_air_force_1_07_se_lny_white,Teal,China,false,6,$955.26
+Evan,Myerscough,63,Male,Puce,nike_air_force_1_07_se_lny_white,Pink,Israel,false,3,$701.87
+Dorothea,Cadamy,62,Female,Crimson,sketcher_max_cushioning_endeavour_black,Fuscia,China,true,4,$684.40
+Roseanne,Lamp,65,Female,Red,mixed_texture_chunky_leather_sneaker_white,Mauv,China,true,5,$368.05
+Frasier,Manis,64,Male,Blue,dr_scholls_time_off_go_black,Orange,North Korea,true,8,$779.83
+Deny,Bonnesen,68,Female,Aquamarine,mixed_texture_chunky_leather_sneaker_white,Mauv,South Korea,false,7,$6.10
+Adriane,Broe,68,Female,Teal,mixed_texture_chunky_leather_sneaker_white,Orange,Brazil,false,4,$8.70
+Sydney,McNeigh,62,Male,Blue,air_jordan1_mid_se_edge_pink,Goldenrod,Indonesia,true,2,$845.97
+Brittaney,Foltin,62,Female,Maroon,sketcher_max_cushioning_endeavour_black,Khaki,Brazil,true,10,$560.70
+Shelbi,Audibert,61,Female,Yellow,clair_hair_leather_mary_jane_flat_black,Orange,Jordan,true,10,$365.48
+Porty,Eldritt,63,Male,Pink,nike_revolution_8_pink,Goldenrod,Israel,true,5,$7.48
+Darill,Scuffham,68,Male,Crimson,nike_revolution_8_pink,Goldenrod,Taiwan,false,1,$152.03
+Osbourne,Buggs,64,Male,Purple,nike_air_max_plus_g_white,Crimson,Indonesia,false,4,$619.70
+Whittaker,Benjefield,60,Male,Purple,nike_air_max_plus_g_white,Green,China,true,9,$954.23
+Hastings,Housiaux,69,Male,Turquoise,nike_revolution_8_pink,Aquamarine,China,true,6,$563.75
+Griffy,Martusewicz,68,Male,Orange,sketchers_arch_fit_laguna_gray,Goldenrod,Argentina,true,8,$4.22
+Lothaire,Pauer,70,Male,Fuscia,sketchers_max_cushioning_endeavour_athletic_running_black,Purple,Russia,true,2,$188.63
+Rachelle,Whitney,62,Female,Blue,nike_revolution_8_pink,Turquoise,New Zealand,true,7,$627.45
+Demetris,Creeber,66,Female,Green,mixed_texture_chunky_leather_sneaker_white,Mauv,Indonesia,true,8,$254.91
+Myrvyn,Bemand,60,Polygender,Puce,clair_hair_leather_mary_jane_flat_black,Fuscia,Ukraine,true,2,$646.25
+Cherie,Marshland,66,Non-binary,Fuscia,sketcher_max_cushioning_endeavour_black,Mauv,Philippines,true,8,$731.41
+Donny,Kitchingman,67,Male,Mauv,nike_revolution_8_pink,Blue,China,false,10,$183.28
+Bryon,Littlekit,62,Male,Orange,air_jordan1_mid_se_edge_pink,Turquoise,Poland,false,2,$776.65
+Gil,Cleere,62,Polygender,Blue,nike_air_force_1_07_se_lny_white,Indigo,Brazil,true,10,$322.15
+Malcolm,Waddy,63,Male,Violet,jordan_spizike_low_pink,Khaki,Indonesia,false,3,$502.35
+Markos,Cuer,70,Male,Violet,sketcher_max_cushioning_endeavour_black,Goldenrod,Indonesia,false,7,$360.72
+Drucy,Ludwell,60,Female,Purple,sketchers_arch_fit_laguna_gray,Fuscia,Uzbekistan,false,10,$868.73
+Aleece,Bifield,61,Female,Turquoise,nike_air_force_1_07_se_lny_white,Teal,Nigeria,true,1,$399.45
+Teddy,Streight,61,Male,Mauv,nike_air_force_1_07_se_lny_white,Indigo,Afghanistan,true,4,$578.15
+Jackqueline,Aimeric,65,Female,Red,nike_air_max_plus_g_white,Yellow,Mongolia,true,10,$385.62
+Lula,Spillane,64,Female,Red,nike_air_max_plus_g_white,Fuscia,United States,true,1,$588.88
+Torrance,Bargh,63,Male,Violet,jordan_spizike_low_pink,Mauv,Philippines,true,6,$555.73
+Celka,Docwra,62,Female,Purple,sketchers_max_cushioning_endeavour_athletic_running_black,Purple,Croatia,false,7,$458.53
+Eyde,Sofe,61,Female,Violet,clair_hair_leather_mary_jane_flat_black,Goldenrod,Guatemala,true,6,$169.87
+Salomon,Hallowell,70,Male,Purple,sketchers_arch_fit_laguna_gray,Crimson,Portugal,false,2,$887.91
+Llewellyn,Ateggart,64,Male,Indigo,skechers_arch_fit_laguna_black,Teal,Sweden,false,7,$583.02
+Paton,Marlow,60,Male,Orange,sktecher_slip_in_go_run_max_cushioning_purple,Indigo,United States,true,1,$177.88
+Geoff,Braiden,69,Male,Puce,nike_air_max_plus_g_white,Orange,Philippines,true,10,$707.21
+Delia,Pryn,66,Female,Yellow,sketchers_max_cushioning_endeavour_athletic_running_black,Pink,China,true,9,$227.36
+Roddie,Klaggeman,68,Male,Green,skechers_arch_fit_laguna_black,Green,Philippines,false,5,$563.32
+Gail,Starmont,64,Female,Aquamarine,sketcher_max_cushioning_endeavour_black,Aquamarine,France,true,1,$540.79
+Virgie,Kirdsch,69,Bigender,Goldenrod,signature_stripe_leather_court_sneaker_white,Crimson,China,true,9,$607.59
+Dov,Sukbhans,62,Male,Goldenrod,nike_air_max_plus_g_white,Pink,Ukraine,false,9,$721.21
+Kassie,Ivanishin,65,Female,Khaki,nike_air_max_plus_g_white,Yellow,Russia,false,10,$11.14
+Helene,Goodier,70,Female,Violet,nike_air_force_1_07_se_lny_white,Maroon,Philippines,true,5,$719.68
+Fredericka,Grunbaum,64,Female,Purple,nike_air_max_plus_g_white,Purple,Iran,true,3,$220.22
+Jarred,Moffat,68,Male,Maroon,mixed_texture_chunky_leather_sneaker_white,Puce,China,true,8,$673.39
+Kailey,Arnli,62,Female,Indigo,clair_hair_leather_mary_jane_flat_black,Orange,Peru,false,1,$376.31
+Dulcy,Pelz,61,Female,Green,skechers_arch_fit_laguna_black,Crimson,China,true,8,$87.43
+Nertie,Brabender,65,Female,Teal,air_jordan1_mid_se_edge_pink,Green,South Africa,false,5,$518.75
+Anselma,Micallef,69,Female,Maroon,mixed_texture_chunky_leather_sneaker_white,Puce,France,true,1,$156.79
+Dyna,Venard,67,Female,Pink,nike_air_force_1_07_se_lny_white,Maroon,Philippines,true,4,$460.95
+Renaud,Folonin,61,Male,Khaki,sktecher_slip_in_go_run_max_cushioning_purple,Puce,Indonesia,true,5,$47.78
+Chance,Janku,67,Male,Aquamarine,signature_stripe_leather_court_sneaker_white,Indigo,Ireland,true,6,$980.37
+Fraze,Maryott,68,Male,Yellow,sketcher_max_cushioning_endeavour_black,Yellow,South Africa,true,7,$304.02
+Horacio,Darlaston,63,Male,Maroon,nike_air_force_1_07_se_lny_white,Mauv,Andorra,true,5,$613.93
+Clarine,Sarton,64,Bigender,Green,nike_air_force_1_07_se_lny_white,Puce,Brazil,false,5,$348.12
+Aline,Ogelsby,68,Female,Mauv,air_jordan1_mid_se_edge_pink,Teal,Mexico,true,8,$511.46
+Timothee,Colston,67,Male,Purple,sketchers_max_cushioning_endeavour_athletic_running_black,Teal,Indonesia,true,1,$564.90
+Bekki,Yerrington,64,Female,Orange,sktecher_slip_in_go_run_max_cushioning_purple,Maroon,Spain,false,1,$309.97
+Reinald,Barttrum,60,Male,Mauv,air_jordan1_mid_se_edge_pink,Teal,Mongolia,true,9,$482.63
+Felecia,Jeays,63,Female,Puce,nike_air_max_plus_g_white,Turquoise,United States,true,8,$979.01
+Faith,Pigeram,69,Female,Puce,air_jordan1_mid_se_edge_pink,Fuscia,Greece,false,3,$376.95
+Grantley,Klainer,69,Male,Yellow,jordan_6_rings_black,Purple,Indonesia,false,10,$4.58
+Romain,Mossman,60,Male,Red,nike_revolution_8_pink,Aquamarine,Bolivia,false,9,$359.23
+Willey,De Souza,65,Male,Aquamarine,sketchers_arch_fit_laguna_gray,Fuscia,Sweden,false,6,$433.31
+Joshua,Camis,65,Male,Maroon,sketcher_max_cushioning_endeavour_black,Fuscia,Colombia,false,3,$720.39
+Delores,Shalcros,65,Female,Puce,nike_air_max_plus_g_white,Red,China,true,1,$302.30
+Debera,Horning,62,Female,Goldenrod,dr_scholls_time_off_go_black,Orange,Indonesia,false,9,$740.41
+Ileana,Gonin,66,Female,Mauv,sketchers_arch_fit_laguna_gray,Puce,Brazil,true,2,$202.82
+Whitney,Jermin,60,Male,Indigo,sketchers_max_cushioning_endeavour_athletic_running_black,Mauv,Botswana,false,7,$26.54
+Guilbert,Gold,65,Male,Turquoise,sketchers_max_cushioning_endeavour_athletic_running_black,Indigo,China,false,3,$409.12
+Iago,Charker,69,Male,Aquamarine,skechers_arch_fit_laguna_black,Pink,Sweden,true,2,$866.19
+Jamal,Braidon,62,Male,Yellow,sketcher_max_cushioning_endeavour_black,Green,Japan,true,5,$843.69
+Oralee,Dullingham,70,Female,Blue,nike_revolution_8_pink,Turquoise,Namibia,true,3,$866.75
+Myron,Touhig,62,Male,Teal,mixed_texture_chunky_leather_sneaker_white,Maroon,Poland,false,8,$366.50
+Putnam,Dorrell,62,Male,Turquoise,sketchers_max_cushioning_endeavour_athletic_running_black,Teal,Finland,true,1,$70.27
+Baryram,Kealey,65,Male,Teal,jordan_spizike_low_pink,Red,Indonesia,false,7,$234.46
+Francis,De Coursey,70,Male,Turquoise,skechers_arch_fit_laguna_black,Crimson,Brazil,true,2,$822.99
+Gianna,Ramble,60,Female,Indigo,sketcher_max_cushioning_endeavour_black,Fuscia,Brazil,true,7,$868.84
+Tresa,Houdhury,61,Female,Blue,mixed_texture_chunky_leather_sneaker_white,Orange,Hungary,false,9,$631.82
+Meggi,Jantet,68,Female,Fuscia,nike_air_max_plus_g_white,Khaki,Bulgaria,true,2,$853.76
+Fernanda,Dove,69,Female,Indigo,jordan_6_rings_black,Teal,Argentina,false,1,$516.18
+Antonio,Reimer,67,Male,Crimson,air_jordan1_mid_se_edge_pink,Maroon,Colombia,true,1,$757.37
+Meredithe,Zoppie,67,Agender,Maroon,dr_scholls_time_off_go_black,Indigo,China,true,4,$859.57
+Jaquenetta,Hollow,65,Female,Crimson,nike_air_force_1_07_se_lny_white,Teal,Poland,true,7,$662.86
+Charlie,Bullen,62,Male,Purple,sketchers_arch_fit_laguna_gray,Crimson,China,true,3,$409.05
+Lane,Cowling,63,Female,Purple,sketchers_max_cushioning_endeavour_athletic_running_black,Green,Palestinian Territory,false,10,$102.57
+Loreen,Give,69,Female,Violet,jordan_6_rings_black,Yellow,China,false,8,$306.99
+Charmane,Petrecz,61,Female,Pink,sktecher_slip_in_go_run_max_cushioning_purple,Teal,China,true,1,$770.45
+Marys,Persehouse,64,Female,Blue,nike_air_force_1_07_se_lny_white,Yellow,Russia,false,8,$374.07
+Benson,Garvill,63,Male,Mauv,nike_air_max_plus_g_white,Goldenrod,Indonesia,true,10,$668.30
+Evaleen,Stuttman,61,Female,Fuscia,nike_air_max_plus_g_white,Mauv,China,false,7,$243.26
+Hurlee,Beckley,66,Male,Yellow,dr_scholls_time_off_go_black,Teal,China,true,10,$278.35
+Jammal,Clymer,64,Male,Green,signature_stripe_leather_court_sneaker_white,Yellow,China,false,7,$756.03
+Heidi,Spinke,68,Female,Goldenrod,skechers_arch_fit_laguna_black,Puce,China,false,6,$979.20
+Howie,Howroyd,70,Male,Fuscia,nike_air_max_plus_g_white,Crimson,France,false,9,$751.58
+Lindsey,Bocking,66,Female,Orange,air_jordan1_mid_se_edge_pink,Yellow,China,true,9,$360.50
+Konstantin,Lobe,63,Male,Red,sketcher_max_cushioning_endeavour_black,Goldenrod,Portugal,false,5,$939.79
+Antonietta,Attoe,66,Female,Mauv,nike_air_force_1_07_se_lny_white,Yellow,Czech Republic,false,7,$296.22
+Betsy,Martinez,62,Female,Turquoise,sketchers_max_cushioning_endeavour_athletic_running_black,Purple,Colombia,false,5,$31.01
+Honoria,Romney,62,Genderfluid,Blue,nike_revolution_8_pink,Teal,Kazakhstan,false,4,$28.01
+Joya,Warratt,70,Female,Violet,jordan_6_rings_black,Puce,Thailand,true,6,$65.61
+Brier,Jikovsky,61,Female,Blue,nike_air_force_1_07_se_lny_white,Aquamarine,Vietnam,false,7,$659.41
+Dre,McCathie,67,Female,Orange,mixed_texture_chunky_leather_sneaker_white,Puce,Austria,false,8,$898.10
+Marmaduke,Bonafant,67,Male,Mauv,nike_revolution_8_pink,Yellow,Bhutan,false,2,$977.59
+Veronika,Roundtree,62,Female,Yellow,sktecher_slip_in_go_run_max_cushioning_purple,Orange,Czech Republic,true,8,$525.94
+Hammad,Hatton,61,Male,Purple,jordan_spizike_low_pink,Mauv,China,false,5,$380.85
+Derek,Barchrameev,68,Male,Indigo,sketcher_max_cushioning_endeavour_black,Crimson,China,true,4,$157.65
+Valentino,Thewless,70,Male,Puce,mixed_texture_chunky_leather_sneaker_white,Turquoise,United States,true,10,$297.28
+Drusie,Lecky,66,Female,Maroon,air_jordan1_mid_se_edge_pink,Crimson,Luxembourg,true,1,$379.07
+Bettine,Moorcraft,64,Female,Aquamarine,dr_scholls_time_off_go_black,Purple,France,true,1,$265.48
+Elbert,Gumery,66,Male,Orange,jordan_6_rings_black,Blue,Indonesia,true,8,$812.18
+Shaylah,Leinster,60,Female,Yellow,nike_air_max_plus_g_white,Green,Thailand,true,6,$666.86
+Worthy,Jarry,67,Male,Puce,skechers_arch_fit_laguna_black,Indigo,Mali,true,4,$929.20
+Randolph,Seeger,61,Male,Orange,nike_air_max_plus_g_white,Blue,Norway,true,1,$857.22
+Daphne,Friel,61,Female,Violet,nike_air_force_1_07_se_lny_white,Goldenrod,Colombia,false,9,$20.35
+Lanie,Leeburn,66,Male,Puce,signature_stripe_leather_court_sneaker_white,Indigo,China,true,5,$891.56
+Hal,Lammiman,69,Male,Puce,sketchers_arch_fit_laguna_gray,Teal,Portugal,false,2,$226.08
+Karmen,Keyse,67,Female,Orange,mixed_texture_chunky_leather_sneaker_white,Goldenrod,Malaysia,true,6,$256.09
+Giles,MacMarcuis,69,Male,Purple,jordan_6_rings_black,Maroon,Philippines,false,1,$521.37
+Mitchel,Sleite,65,Male,Khaki,nike_revolution_8_pink,Red,Venezuela,false,8,$622.52
+Oriana,Avraam,61,Female,Mauv,nike_air_max_plus_g_white,Turquoise,China,false,6,$591.38
+Moses,Di Lucia,69,Male,Violet,skechers_arch_fit_laguna_black,Teal,Russia,false,6,$464.13
+La verne,Glozman,65,Female,Teal,nike_air_max_plus_g_white,Crimson,Russia,false,6,$807.34
+Briant,Luckey,63,Male,Crimson,nike_air_max_plus_g_white,Fuscia,Russia,true,6,$596.09
+Rani,Wheway,68,Female,Red,mixed_texture_chunky_leather_sneaker_white,Red,Syria,false,7,$80.25
+Malinde,Brazier,70,Female,Pink,sketcher_max_cushioning_endeavour_black,Indigo,Afghanistan,false,9,$411.09
+Stefan,Osorio,60,Male,Teal,air_jordan1_mid_se_edge_pink,Violet,Tanzania,false,7,$699.41
+Paulie,Edmundson,69,Female,Indigo,skechers_arch_fit_laguna_black,Violet,Colombia,false,3,$887.03
+Hamish,Siggens,68,Male,Purple,dr_scholls_time_off_go_black,Pink,Nigeria,true,5,$152.24
+Trenton,Tellett,66,Male,Crimson,jordan_6_rings_black,Maroon,Cameroon,true,5,$723.98
+Fredia,Korpal,63,Female,Turquoise,signature_stripe_leather_court_sneaker_white,Crimson,China,true,4,$602.90
+Fergus,Cestard,70,Male,Violet,sketchers_arch_fit_laguna_gray,Red,Indonesia,false,8,$422.91
+Missy,Simmins,67,Female,Blue,jordan_6_rings_black,Yellow,China,false,3,$11.99
+Montgomery,Moyse,68,Male,Yellow,nike_air_force_1_07_se_lny_white,Aquamarine,Czech Republic,true,9,$658.71
+Garvin,Oakey,63,Male,Purple,jordan_6_rings_black,Mauv,France,true,6,$912.60
+Jennie,Ambroix,63,Genderqueer,Aquamarine,nike_air_max_plus_g_white,Yellow,Azerbaijan,false,2,$985.48
+Laney,Gatecliffe,61,Male,Blue,mixed_texture_chunky_leather_sneaker_white,Turquoise,Peru,true,10,$766.65
+Hedvig,Merriment,65,Female,Purple,dr_scholls_time_off_go_black,Yellow,United States,false,6,$180.11
+Eugine,Beteriss,66,Female,Pink,air_jordan1_mid_se_edge_pink,Goldenrod,United States,false,6,$9.30
+Alisander,Tomowicz,61,Male,Khaki,air_jordan1_mid_se_edge_pink,Khaki,Canada,true,2,$885.70
+Ferdinande,Quinevan,66,Female,Green,nike_revolution_8_pink,Puce,Indonesia,false,9,$773.45
+Ellswerth,Leyland,66,Male,Crimson,sketchers_arch_fit_laguna_gray,Purple,Italy,true,1,$131.21
+Sallyann,Yurevich,66,Female,Turquoise,skechers_arch_fit_laguna_black,Violet,Bulgaria,true,6,$285.87
+Phaedra,Couser,65,Female,Indigo,clair_hair_leather_mary_jane_flat_black,Crimson,China,false,9,$765.08
+Donetta,Prinnett,62,Female,Khaki,sketchers_arch_fit_laguna_gray,Blue,Indonesia,false,7,$772.98
+Olly,Shieldon,69,Female,Maroon,jordan_spizike_low_pink,Blue,China,true,6,$366.45
