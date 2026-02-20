@@ -1,0 +1,65 @@
+
+
+.float-nav{
+    z-index: 1;
+    position:absolute;
+}
+.ads-container{
+    height: 575px;
+}
+
+.nav-item{
+    display: inline-block;
+}
+.round-button{
+    border-radius: 100%;
+    width: 75px;
+    height: 75px;;
+}
+
+.nav-left{
+    float:left;
+}
+.nav-right{
+    float: right;
+}
+
+.nav-container{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.logo-container{
+    margin-right: 25px;
+}
+
+.item-container{
+    width: 325px;
+    height: 10px;
+    margin: 10px;
+}
+.circle-svg{
+    top: 24%;
+    left: 36%
+}
+.item-svg{
+    top: 0%;
+    left: 25%
+}
+
+.button-container{
+
+}
+
+.title-container{
+    color:white;
+    top: 10%;
+    left: 32%
+}
+.feature-container{
+    font-size: 22px;
+    color:white;
+    top: 95%;
+    left: 62%
+}

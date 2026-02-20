@@ -1,0 +1,26 @@
+
+
+.top-left-container{
+    top: 2%;
+    left: 2%;
+    font-weight: bold;
+    font-size: 12px;
+    color:white
+}
+
+
+.bottom-left-container-top{
+    width:45%;
+    top: 80%;
+    left: 2%;
+    font-size: 12px;
+    color:white
+}
+
+.bottom-left-container-bottom{
+    top: 90%;
+    left: 2%;
+    font-weight: bold;
+    font-size: 12px;
+    color:white
+}

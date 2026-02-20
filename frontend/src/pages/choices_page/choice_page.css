@@ -1,0 +1,19 @@
+
+
+.top-left-container{
+    top :9%;
+    left:8%;
+    color: black;
+}
+
+.svg-container{
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline;
+}
+
+
+.top-left-container-title{
+    display: inline;
+    font-size: 24px;
+}
